@@ -1,0 +1,50 @@
+{
+  "run_id": "20260713T182115730906Z",
+  "started_at_utc": "2026-07-13T18:21:15.730923+00:00",
+  "completed_at_utc": "2026-07-13T18:24:47.189036+00:00",
+  "queries": [
+    "Model Context Protocol MCP python servers open source examples",
+    "n8n webhooks custom HTTP response configuration guidelines"
+  ],
+  "rounds": 15,
+  "search": {
+    "endpoints": {
+      "SearchApi": "https://www.searchapi.io/api/v1/search",
+      "SerpApi": "https://serpapi.com/search"
+    },
+    "engine": "google",
+    "request_interval_seconds": 1.0,
+    "timeout_seconds": 30.0,
+    "retry_policy": "one retry for timeout, network, HTTP 429, and HTTP 5xx",
+    "outcomes": {
+      "SearchApi": {
+        "successful": 30,
+        "failed": 0
+      },
+      "SerpApi": {
+        "successful": 30,
+        "failed": 0
+      }
+    }
+  },
+  "phase": "search",
+  "runtime": {
+    "python": "3.12.3",
+    "platform": "Linux-6.8.0-134-generic-x86_64-with-glibc2.39",
+    "packages": {
+      "httpx": "0.28.1",
+      "openai": "2.45.0",
+      "pandas": "3.0.3",
+      "rich": "14.3.4"
+    }
+  },
+  "artifacts": [
+    "raw_audit_logs/query1_searchapi_raw_20260713T182115730906Z.json",
+    "raw_audit_logs/query1_serpapi_raw_20260713T182115730906Z.json",
+    "raw_audit_logs/query2_searchapi_raw_20260713T182115730906Z.json",
+    "raw_audit_logs/query2_serpapi_raw_20260713T182115730906Z.json",
+    "search_api_averaged_results_20260713T182115730906Z.csv",
+    "search_api_detailed_results_20260713T182115730906Z.csv",
+    "search_manifest_20260713T182115730906Z.json"
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "search_metadata": {
+    "id": "search_mR5DzpePyDIy5x3N24YdGQno",
+    "status": "Success",
+    "created_at": "2026-07-13T18:21:16Z",
+    "request_time_taken": 2.71,
+    "parsing_time_taken": 0.06,
+    "total_time_taken": 2.77,
+    "request_url": "https://www.google.com/search?q=Model+Context+Protocol+MCP+python+servers+open+source+examples&oq=Model+Context+Protocol+MCP+python+servers+open+source+examples&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_mR5DzpePyDIy5x3N24YdGQno.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_mR5DzpePyDIy5x3N24YdGQno"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Model Context Protocol MCP python servers open source examples",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "Model Context Protocol MCP python servers open source examples",
+    "total_results": 234,
+    "time_taken_displayed": 0.26,
+    "detected_location": "Parkhill, Mobile, AL",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search",
+    "page_token": "L2FzeW5jL2ZvbHNyY2g_cHdzXHgzZDBceDI2aGxceDNkZW5ceDI2Z2xceDNkdXNceDI2eXZceDNkM1x4MjZjc1x4M2QwXHgyNmVpXHgzZG5peFZhdVNKS1lXQ3dia1BfY21zaVFnXHgyNmFzeW5jXHgzZF9iYXNlanM6L3hqcy9fL2pzL2slM0R4anMucy5lbi5FLVBiNUJiVmdTVS4yMDE5Lk8vYW0lM0RBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FDSUFBQUNJQWdBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUJnSUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFSUFCQUFDUUFBQUFBQUFBQUlBQUFBQUFBRUFBQUFBQUFBQUFBd0FFQUFBQkJBQ0FBQUFJQUNBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRUUFBQUFBUkNBSUFBUHpOZkFNQUFBMEFBQUFBT0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFKQUFBQUFBQUFBQUFBQUFMQUFBQUJBTUFBQVFBQUVCRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUlBQUFBQUFBQUFBQUFBQUFBQUlBQUFBQUFBS0FBQUFBQUFBZ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFJQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFVQUFBQUFBRGdBQUFBQUFBQUFBQUVBQUFBQUFBQUFBQUFBQUFBQUFBQUFnQUFHQUFBQUFBQUFBQUFBQ2dBSS1BR0FBQWdBQUFBQUFDQUFBQUFBQUlBQUFRQUFBQUFBQUFRQUNBQXdBQUFBQU1nQjhIZ0FEaEVVQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ29BREdnU1FnQUFJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFVb1NuQUFBQUFBQUFiQTBBQ0EvZGclM0QwL2JyJTNEMS9pY2hjJTNEMS9ycyUzREFDVDkwb0gtazdEQVVSb28yZTRXMHpweGswLWd2bUxSR0EvY2IlM0Rsb2FkZWRfaF8wP2NiJTNEMTIxNTA5Mzc4LF9iYXNlY3NzOi94anMvXy9zcy9rJTNEeGpzLnMuTjAxYXpmdXVQOTQuTC5CMS5PL2FtJTNEQUFBZ0FBQUFBSUFBQUFBQUFBQUFBQUFBZ0FBQVJBQUFBQUFBQUFBQUFBQUFBQUFBQUlBQVFBQUFBQUlBQUFBQUFBQUFBQUFBQWdBQUFBQkFBQUFBZ0VBQUFBQmtBQUFBQUFBQWdBSUFBQUFBQUdoQUJBQWdBQUFBQUFBQUFFQWhId0FBTUFBQUFBQUFnQWVBQVNBSUFBQUFBQUFBQUFBQUFBQUFCQUFBQ1FBQUFBQUFBQUFJQUFBQUFBQUFBQUFBRUFBQUFBQUFBRUFBQUJCQUFRQUFBQ0JBQVFBQUNBQUFBSUFBQUFBQUFBQUFBQUFRUUNBQUFBQUFBQUlBQUFBQUFBQUFBQTRBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUJBQUFBQUFNQUNJQmdBQUFBQUFBQ0FNQUFBQUFBQUFBQUFRQUFBQkFBQUFBQUFBQUFDSUJFZ0FBQVFBQUFBQWdBRUFBQUFBQUFBQUlBQ0FJQlFDQUNBQUtBQUJBUUFBQUFESEF3QUNBQUFBQUFBQUFCQVFBQUFBQUFBQUFBQUFBZ0FRQkNBRUVBQUFBQUFBQVFBQUFBQWdBQUFBQURrQUFBQUFBQUFBQWdnQUJDQUFnQkZrQUFBa0NnS0FDQUFnQUFBRUFBQUFSQUFBQUFBQUNrQkFBQUFBQUFBQUFBQUFBQ0FDQUFBQUFBQUFBQUFBQUZnQWdDVUFDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUtBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUEvYnIlM0QxL2NiJTNEbG9hZGVkX2hfMC9ycyUzREFDVDkwb0dGYjdRSUxha2pQM2MyUGVHcEpyTVEtQnl3N1E_Y2IlM0QxMjE1MDkzNzgsX2Jhc2Vjb21iOi94anMvXy9qcy9rJTNEeGpzLnMuZW4uRS1QYjVCYlZnU1UuMjAxOS5PL2NrJTNEeGpzLnMuTjAxYXpmdXVQOTQuTC5CMS5PL2FtJTNEQUFBZ0FBQUFBSUFBQUFBQUFBQUFBQUFBZ0FBQVJBQUFBQUFBQUFBQUFBQUFBQUFBQUlBQVFBQUFBQUlBQUFBQUFBQUFBQUFBQWdBQUFBQkFBQUFBZ0VBQUFBQmtBQUNBQ0lBQWdDSUFnQUFBZ0doQUJBQWdBQUFBQUFBQUFFQWhId0lBTUFBQUFBQUFnQWVBQVNBSUFBQUFBQUFBQUFBQUFBRUlCQkFBQ1FBQUFBQUFBQUFJQUFBQUFBQUVBQUFBRUFBQUFBQXdBRUFBQUJCQUNRQUFBS0JDQVFBQUNBQUFBSUFBQUFBQUFBQUFBQUFRUVNBQUFBQVJDQUlBQVB6TmZBTUFBQThBQUFBQU9BQUFBQUFBQUJBQUFBQUFBQUFBQUJBQUFBQUFNSkNJQmdBQUFBQUFBQ0FNTEFBQUFCQU1BQUFRQUFFQkVBQUFBQUFBQUFDSUJFZ0FBQVFBQUFJQWdBRUFBQUFBQUFBQUlBQ0FJQlFDQUNBQUtBQUJBUUFBQWdESEF3QUNBQUFBQUFBQUFCQVFBQUFBQUFBSUFBQUFBZ0FRQkNBRUVBQUFBQUFBQVFBQUFBVWdBQUFBQURrQUFBQUFBQUFBQWdrQUJDQUFnQkZrQUFBa0NnS0FDQUFnZ0FBR0FBQUFSQUFBQUFBQUNrQkktQUdBQUFnQUFBQUFBQ0FDQUFBQUFJQUFBUUFBQUZnQWdDVUFDQUF3QUFBQUFNZ0I4SGdBRGhFVUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUNvQURHZ2FRZ0FBSUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBVW9TbkFBQUFBQUFBYkEwQUNBL2QlM0QxL2VkJTNEMS9kZyUzRDAvYnIlM0QxL3VqZyUzRDEvaWNoYyUzRDEvcnMlM0RBQ1Q5MG9GMjlVSUdsakdINkRVWldjejJmMmxwaUE4Z0J3L2NiJTNEbG9hZGVkX2hfMD9jYiUzRDEyMTUwOTM3OCxfZm10Om1hZGwsX2lkOkIySnR5ZCxfbWFkbzplZFx4MjZxXHgzZE1vZGVsK0NvbnRleHQrUHJvdG9jb2wrTUNQK3B5dGhvbitzZXJ2ZXJzK29wZW4rc291cmNlK2V4YW1wbGVzXHgyNm1scm9ceDNkMGE1SVFJbmo1QS1IN3NRVGR5aUFzMU9FSjdNaldkeGhUQS03VDJlNm5RR1Q0V0RWU3dxS2pKbFlNZnU3TmRVRmtwQjV5VXpCb185eG5KaUJxdFhSWWh1eFA3TEpwTUFvRXRDQmFQUXItZzY2QzZzUEJLSEhkYXA3RDBHdHFfYlp4dFBpc0kyU19TSWtybFI0XHgyNm1scm9zXHgzZDNfWGZFS3R3MDVnXHgyNm1yY1x4M2RDQUE0Z0FOUUFXZ0JjQUNZQVFDZ0FRQ29BUUN3QVFBXHgyNnNjYV9lc3ZceDNkMmVjNGY4Y2FkOTY3NTAzYVx4MjZtZ3R5cFx4M2Q4XHgyNnNuclx4M2Qx"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "modelcontextprotocol/servers: Model Context Protocol ...",
+      "link": "https://github.com/modelcontextprotocol/servers",
+      "source": "GitHub",
+      "domain": "github.com",
+      "displayed_link": "https://github.com › modelcontextprotocol › servers",
+      "snippet": "They are meant to serve as educational examples for developers building their own MCP servers, The Model Context Protocol is open source",
+      "snippet_highlighted_words": [
+        "They are meant to serve as educational examples"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX////4+Pi3ubtvcnZNUVU+Q0cpLjLr6+x3en0sMTYkKS59gIORk5aUl5n8/Pzw8PFTV1tbX2Pc3d5DSEzn5+g3PECLjpFKTlKFh4qxs7XCxMUuMze/wcLh4uPV1tZzd3o/Q0jOz9CmqKpjZ2qfoaTxAyfNAAABPUlEQVR4AW3TBYKDMBQE0AltAgzuzur9z7ibH5oKfWjc4UEFl6s2Rl8vgcJZGMX04iTEM5UaPomzHA+KkidVAa/WfKNpffMd32oKCHUlWfb27Q19ZSMVrNHGTMDckMtQLqSegdXGpvi3Sf93W9UudRby2WzsEgL4oMvwoqY1AsrQNfFipbXkCGh1BV6oT1pfRwvfOJlo9ZA5NAonStbmB1pawBuDTAgkX4MzV/eC2H3e0C7lk1aBEzd+7SpigJOZVoXx+J5UxzADil+8+KZYoRaK5y2WZxSdgm0j+dakzkIc2kzT6W3IcFnDTzdt4sKbWMqkpNl229IMsfMmg6UaMsJXmv4qCMXDoI4mO5oADwyFDnGoO3KI0jSHQ6E3eJum5TP4Y+EVyUOGXHZjgWd7ZEwOJzZRjbPQt7mF8P4AzsYZpmkFLF4AAAAASUVORK5CYII="
+    },
+    {
+      "position": 2,
+      "title": "Practical Guide to MCP (Model Context Protocol) in Python",
+      "link": "https://dev.to/m_sea_bass/practical-guide-to-mcp-model-context-protocol-in-python-ijd",
+      "source": "DEV Community",
+      "domain": "dev.to",
+      "displayed_link": "https://dev.to › m_sea_bass › practical-guide-to-mcp-m...",
+      "snippet": "MCP (Model Context Protocol) is a protocol that connects LLMs with external tools. This article walks through how to use MCP step by step with ...",
+      "snippet_highlighted_words": [
+        "MCP (Model Context Protocol"
+      ],
+      "date": "Nov 2, 2025",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAMAAABY1h8eAAAAS1BMVEUAAAAAAAAAAAAAAAAGBgYAAAC6urr39/f19fXT09NKSkrj4+P///+wsLCdnZ1cXFzHx8cXFxdlZWV4eHgfHx+RkZGHh4empqYmJiaIq+h1AAAABnRSTlMl6f/T/v6d86gKAAAAp0lEQVR4AcXSRQKEMBAF0VCD9w9u97/ouKFbavsg7lzAToFzl3APw8CF7Oc4wugcjJM0zXJCS9NUeBWAqXxhpUd1o0e0MugkPpgTq28UA4QSDMq+WDKoeCGYGir1SzRfAKM8ifIlSgaUskkpS6zKHEAqFLM552v17Q/7xtTe/2yaNoT+juEP7xnla7vPTWZ8cPDeD0Dv74VA6evzrowjDI/w8N0evfgbpM4OMGs0DpUAAAAASUVORK5CYII="
+    },
+    {
+      "position": 3,
+      "title": "Hands-on MCP: Building Servers and Clients with Python",
+      "link": "https://www.codemag.com/Article/266031/Hands-on-MCP-Building-Servers-and-Clients-with-Python",
+      "source": "CODE Magazine",
+      "domain": "www.codemag.com",
+      "displayed_link": "https://www.codemag.com › Article › Hands-on-MCP-...",
+      "snippet": "In this article, I will take a more hands-on approach, focusing on practical code samples and walking you through how to write your own MCP ...",
+      "snippet_highlighted_words": [
+        "practical code samples"
+      ],
+      "date": "Apr 6, 2026",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEXiMjfiLzThKzDhIyngEhvkO0DoX2Lqb3LmU1fhISjyp6n88fH////ulJbyq63hKC7qfH7++vr75eb53t/gFx/voKH+9/joZWj0urv2xsf2ycrysrT76OnvmJrqd3rrgoToa26JKxJsAAAAq0lEQVR4AWKgCgDURhdZEINAAETRuLvD/S8Zb2L9Zje1/TiUXdGHMC6kZZucu7qO5we3PG6I8nAjHHn0kAe6YAjGSbCXZjmUhfGJRb5bbpPCBEat3bI4puQTLzer6pgg8WbD3CVYcbth8wu7AkXebzhIihhcc8Snuv6uUxEjX8bDYK9VGrp9GeuCoxQKSg5IZY49PKhocIQj5xiCkqTPfagqH0ho7BbCBPaPFnBcEVd5NOzjAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 4,
+      "title": "Discovering MCP Servers in Python",
+      "link": "https://codesignal.com/learn/courses/developing-and-integrating-a-mcp-server-in-python/lessons/getting-started-with-fastmcp-running-your-first-mcp-server-with-stdio-and-sse",
+      "source": "CodeSignal",
+      "domain": "codesignal.com",
+      "displayed_link": "https://codesignal.com › learn › courses › lessons › getti...",
+      "snippet": "This lesson introduces the Model Context Protocol (MCP) and guides you through setting up and running a basic MCP server in Python using the FastMCP class.",
+      "snippet_highlighted_words": [
+        "Model Context Protocol",
+        "MCP",
+        "MCP server",
+        "Python"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAVFBMVEUQYvsQYvsQYvsQYvsNYfwFZvwEX/wAW/yBqP2qxf6PtP5woP1MiP0vdvzx9v/////4+//j7f/L3f87gf250P7Z5v9Ri/0bavzG2v9nmP2Zu/4QYvvfi6J8AAAAHHRSTlMdrfr///////////////////////////////+xxcf3HAAAAQ1JREFUeAF90wUCgzAMBVAgbVJLvUh3/3vOfezjPKQ6DOMEPzONJ4PdjMO0j9MApwjxcft254ISiQiFuN6+XMgbClDaWMcSCU+rZGeNViAuCKR8CCGmrJl1TvF04RXBFZFTLtbUFowJrRpbcmK8oUDtZ16kXFNapVx49hrFDYG26FvurEJQ3HPzcSO4Iy7N61ode8+uVu3bgg8E6tFJBqqVgKWLneAFS0i128We1l5TKK8osK8pxm1ZthjT2lG8IAgiKq0C1FaI6GQ3vAVRJ+ak8VKWV7xVyFq/EfxC5LaujfEnCuwxdhQ/EWiOcSb4jUK2JsUekjEEOwjIjLv4OZhOuJ//Q3Pcx8Of6XAYjv3AE7zQrPPRAAAAAElFTkSuQmCC"
+    },
+    {
+      "position": 5,
+      "title": "Model Context Protocol servers",
+      "link": "https://mcpservers.org/servers/iamadk/reference-servers",
+      "source": "MCP Servers",
+      "domain": "mcpservers.org",
+      "displayed_link": "https://mcpservers.org › Servers",
+      "snippet": "A collection of reference server implementations for the Model Context Protocol (MCP) using Typescript and Python SDKs. Open Source MacOS & Windows",
+      "snippet_highlighted_words": [
+        "server",
+        "Model Context Protocol",
+        "MCP",
+        "Python",
+        "Open Source"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEV0cnNHcEwWFhYGBgYBAQEEBAQWFhYeHh4GBgYICAgLCwwoKCgLCwsQEBAHBwgICAgQEBACAwMLCwsEBAQYGBkjIyPkT3NBAAAAFnRSTlMCAKX//8cmGNerRAuOV+S89rN38jcyynam+QAAAQhJREFUeAGt01digzAQRVE9zwMJNScC73+rUUmZuLehc88XxRhcnVsdeBPYCacZesY9OwAcl3rpdQ7CJVJsB4kJQK573efauHSwE0CJ3qV2YP+hgBK1W7T5/ANlddsQo4f9umhQ6Fb6IWzrwj0nBVwG8hBz72IRqUCeMIQjaSF1QzkCPnVRisEq1pYT4DgEzMo5CE9Ar22r3YjYEzClUUXmuvc5HAPukLkhLrXL7Hk4BWgF6O4C6O/A0eMSgKVkJpyCUiANwE45YYDDpwJAA2o8N+A/4C0gF4EpDEBg1GAbn6FrAJZ52zIt9KyS5oWpA3jW8YAeu5KMGKASj5PZfLjxZxm1f+H3Nl+yqBAr65HgFgAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 6,
+      "title": "MCP Python SDK",
+      "link": "https://github.com/modelcontextprotocol/python-sdk",
+      "source": "GitHub",
+      "domain": "github.com",
+      "displayed_link": "https://github.com › modelcontextprotocol › python-sdk",
+      "snippet": "What is MCP? The Model Context Protocol lets you build servers that expose data and functionality to LLM applications in a secure, standardized way.",
+      "snippet_highlighted_words": [
+        "MCP",
+        "Model Context Protocol",
+        "servers"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX////4+Pi3ubtvcnZNUVU+Q0cpLjLr6+x3en0sMTYkKS59gIORk5aUl5n8/Pzw8PFTV1tbX2Pc3d5DSEzn5+g3PECLjpFKTlKFh4qxs7XCxMUuMze/wcLh4uPV1tZzd3o/Q0jOz9CmqKpjZ2qfoaTxAyfNAAABPUlEQVR4AW3TBYKDMBQE0AltAgzuzur9z7ibH5oKfWjc4UEFl6s2Rl8vgcJZGMX04iTEM5UaPomzHA+KkidVAa/WfKNpffMd32oKCHUlWfb27Q19ZSMVrNHGTMDckMtQLqSegdXGpvi3Sf93W9UudRby2WzsEgL4oMvwoqY1AsrQNfFipbXkCGh1BV6oT1pfRwvfOJlo9ZA5NAonStbmB1pawBuDTAgkX4MzV/eC2H3e0C7lk1aBEzd+7SpigJOZVoXx+J5UxzADil+8+KZYoRaK5y2WZxSdgm0j+dakzkIc2kzT6W3IcFnDTzdt4sKbWMqkpNl229IMsfMmg6UaMsJXmv4qCMXDoI4mO5oADwyFDnGoO3KI0jSHQ6E3eJum5TP4Y+EVyUOGXHZjgWd7ZEwOJzZRjbPQt7mF8P4AzsYZpmkFLF4AAAAASUVORK5CYII="
+    },
+    {
+      "position": 7,
+      "title": "Building Your Own Model Context Protocol (MCP) Server With ...",
+      "link": "https://www.coderslexicon.com/building-your-own-model-context-protocol-mcp-server-with-node-and-python/",
+      "source": "coderslexicon.com",
+      "domain": "www.coderslexicon.com",
+      "displayed_link": "https://www.coderslexicon.com › building-your-own-mo...",
+      "snippet": "In this post I will show you all you need to set it up using either Node.js (using the @modelcontextprotocol/sdk) or Python (through the use of FastMCP).",
+      "snippet_highlighted_words": [
+        "modelcontextprotocol",
+        "Python"
+      ],
+      "date": "Jun 3, 2025",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABj0lEQVR4AZSQU7YcURSG/33aMZ9jjCCaQYYQcx79mBnEtm3bdnJtG+X671nt7sv61qo6/jaQTCZzX0vN72R3W/UWPRf9YSJfET9eXCKNNhp9nXx89eAuAIIAyM+Xl8mBZpIeafex4c/Tzue3Tw++fXiOj64e/Xrj7J619y4dWIlCZq9Zv3Og4SPdrjJ+e3YxJ/CtHtJoYvW7Y2z594RmTyNzeANs+3mXAMIKKrTUp4K+ABKl5PYcaxC+54DOAHyjC67jQDNTQUPfC1ouSA8aSQm0GkGh76dGBQgYVJB642YFuXQCQS+XQb4EEQFC4Qn1wy/IIFfC3JkR/Hl3C9+fnQUkpD8ZQ5DPIFdPIhbFnFnTMHcqUfP+FPq7OiEiqa8QkXzZ4dQFJYhFIxCGYRkuKiobYZgmDOsR2toN2BXNmL/cxuK5i5AqMWRDZaThkACnHpfDpUKeKamP9T34PTADCsSvtxWA/rLEVb7xQ1MAYicgdkbD7qIpy/5r5yw6iEXOGapHAF9AMwOxCBDz4lMEACbm8+X4RkW9AAAAAElFTkSuQmCC"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "MCP-Agent - Python Open Source Framework for building AI agents with native MCP support",
+      "link": "https://www.reddit.com/r/Python/comments/1mf0cih/mcpagent_python_open_source_framework_for/",
+      "source": "Reddit",
+      "date": "11 months ago",
+      "posts": "2 comments",
+      "community": "r/Python",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAhFBMVEVHcEz/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/PQD/NgD+XS32dlf5vK3////64dusLADUz9H+jXLOPAoSHiFrLBm3uLn3/f7jVS/b6e77pJDJo6H718//RQDw9ffs5+jm8fPIXlHqKwD5+PjolIP/VgP/SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb//////////////////////////8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT////dm6Enc+MZH8Qz2V3Je/rj7Lgekec659N/fIgPnn+yCULaYaYwsCqShYhiQXQ+dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK/caJUygTMzN7eTnxdBXMcb3+0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB/TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg+vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F+rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1+vt1Z4HeDI/1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC",
+      "answers": [
+        {
+          "snippet": "Model Context Protocol (MCP) is a protocol that standardizes how LLMs interact with tools, memory, and prompts. This allows you to connect ...",
+          "link": "https://www.reddit.com/r/Python/comments/1mf0cih/mcpagent_python_open_source_framework_for/"
+        }
+      ]
+    },
+    {
+      "title": "What is the specific best example showcasing the use of an MCP?",
+      "link": "https://www.reddit.com/r/mcp/comments/1nbgqrg/what_is_the_specific_best_example_showcasing_the/",
+      "source": "Reddit",
+      "date": "10 months ago",
+      "posts": "20+ comments",
+      "community": "r/mcp",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAhFBMVEVHcEz/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/PQD/NgD+XS32dlf5vK3////64dusLADUz9H+jXLOPAoSHiFrLBm3uLn3/f7jVS/b6e77pJDJo6H718//RQDw9ffs5+jm8fPIXlHqKwD5+PjolIP/VgP/SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb//////////////////////////8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT////dm6Enc+MZH8Qz2V3Je/rj7Lgekec659N/fIgPnn+yCULaYaYwsCqShYhiQXQ+dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK/caJUygTMzN7eTnxdBXMcb3+0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB/TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg+vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F+rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1+vt1Z4HeDI/1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC"
+    },
+    {
+      "title": "Model Context Protocol (MCP) Integration Proposal #148",
+      "link": "https://github.com/JoshuaC215/agent-service-toolkit/discussions/148",
+      "source": "GitHub",
+      "date": "1 year ago",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX////4+Pi3ubtvcnZNUVU+Q0cpLjLr6+x3en0sMTYkKS59gIORk5aUl5n8/Pzw8PFTV1tbX2Pc3d5DSEzn5+g3PECLjpFKTlKFh4qxs7XCxMUuMze/wcLh4uPV1tZzd3o/Q0jOz9CmqKpjZ2qfoaTxAyfNAAABPUlEQVR4AW3TBYKDMBQE0AltAgzuzur9z7ibH5oKfWjc4UEFl6s2Rl8vgcJZGMX04iTEM5UaPomzHA+KkidVAa/WfKNpffMd32oKCHUlWfb27Q19ZSMVrNHGTMDckMtQLqSegdXGpvi3Sf93W9UudRby2WzsEgL4oMvwoqY1AsrQNfFipbXkCGh1BV6oT1pfRwvfOJlo9ZA5NAonStbmB1pawBuDTAgkX4MzV/eC2H3e0C7lk1aBEzd+7SpigJOZVoXx+J5UxzADil+8+KZYoRaK5y2WZxSdgm0j+dakzkIc2kzT6W3IcFnDTzdt4sKbWMqkpNl229IMsfMmg6UaMsJXmv4qCMXDoI4mO5oADwyFDnGoO3KI0jSHQ6E3eJum5TP4Y+EVyUOGXHZjgWd7ZEwOJzZRjbPQt7mF8P4AzsYZpmkFLF4AAAAASUVORK5CYII="
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Intro to MCP Servers – Model Context Protocol with Python ...",
+      "link": "https://www.youtube.com/watch?v=DosHnyq78xY",
+      "source": "YouTube",
+      "channel": "freeCodeCamp.org",
+      "length": "1:12:43",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "position": 2,
+      "title": "Build an MCP Server in 20 Minutes (with Python)",
+      "link": "https://www.youtube.com/watch?v=vzGkSn59rDU",
+      "source": "YouTube",
+      "channel": "pixegami",
+      "length": "19:21",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "position": 3,
+      "title": "Model Context Protocol - Explained! (with Python example)",
+      "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho",
+      "source": "YouTube",
+      "channel": "BugBytes",
+      "length": "25:28",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "seconds": 0,
+          "title": "Intro to MCP Model Context Protocol",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7l4ekZoDd3VNppBDk2la2OoGLHXKHDftDCyvcRcJ_Cw&s"
+        },
+        {
+          "time": "03:36",
+          "seconds": 216,
+          "title": "MCP Servers",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=216",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfuAN8JdxKOVu1VoJIxDGJswJ_XEgTRS44TmlyrlUqg&s"
+        },
+        {
+          "time": "04:07",
+          "seconds": 247,
+          "title": "Installing MCP Python SDK with uv",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=247",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVPgZV_jtzGG1_EN1-S3lNkai0q5JGNrKI2Gq3zs-csg&s"
+        },
+        {
+          "time": "04:54",
+          "seconds": 294,
+          "title": "FastMCP server object",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=294",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPZNw1SArI-hI_tgN7k1U_JSp_F0f_vhTwI-7419cZg&s"
+        },
+        {
+          "time": "07:39",
+          "seconds": 459,
+          "title": "Creating MCP Tool to fetch user top 5 books",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=459",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHC2uHDpoc59jcy4ptLwx4FMNxpRMwviuIzr9GphkK2g&s"
+        },
+        {
+          "time": "13:25",
+          "seconds": 805,
+          "title": "MCP Transports",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=805",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUFZ7kXUutBF8gdA3OQ7gR-jOrYdAu7u0YHzsGWY8Swg&s"
+        },
+        {
+          "time": "14:12",
+          "seconds": 852,
+          "title": "Adding MCP Server to Claude Desktop",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=852",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nRjB884q5nUVOz0eU3Nr9Aykk2nYN0az-XBSQzNgEQ&s"
+        },
+        {
+          "time": "20:22",
+          "seconds": 1222,
+          "title": "MCP Resources",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=1222",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWht0ejqspri2t8XNnvdrcqdYq1G-B7hsvXWpnXrwoxw&s"
+        },
+        {
+          "time": "23:11",
+          "seconds": 1391,
+          "title": "MCP Inspector",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=1391",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScnZ6mlSZ42VkQxjPVH9U91zk0Gc31PGMtqrdRYAYj5Q&s"
+        }
+      ],
+      "image": "data:image/jpeg;base64,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"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "Python MCP server example",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&pws=0&hl=en&gl=us&q=Python+MCP+server+example&sa=X&ved=2ahUKEwjk0ODAotCVAxUFQTABHf0kK4EQ1QJ6BAgeEAE"
+    },
+    {
+      "query": "Model Context Protocol servers",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&pws=0&hl=en&gl=us&q=Model+Context+Protocol+servers&sa=X&ved=2ahUKEwjk0ODAotCVAxUFQTABHf0kK4EQ1QJ6BAg5EAE"
+    },
+    {
+      "query": "MCP server Python",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&pws=0&hl=en&gl=us&q=MCP+server+Python&sa=X&ved=2ahUKEwjk0ODAotCVAxUFQTABHf0kK4EQ1QJ6BAgvEAE"
+    },
+    {
+      "query": "MCP client Python example",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&pws=0&hl=en&gl=us&q=MCP+client+Python+example&sa=X&ved=2ahUKEwjk0ODAotCVAxUFQTABHf0kK4EQ1QJ6BAgqEAE"
+    },
+    {
+      "query": "Model Context Protocol GitHub",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&pws=0&hl=en&gl=us&q=Model+Context+Protocol+GitHub&sa=X&ved=2ahUKEwjk0ODAotCVAxUFQTABHf0kK4EQ1QJ6BAgpEAE"
+    },
+    {
+      "query": "MCP server list",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&pws=0&hl=en&gl=us&q=MCP+server+list&sa=X&ved=2ahUKEwjk0ODAotCVAxUFQTABHf0kK4EQ1QJ6BAgoEAE"
+    },
+    {
+      "query": "GitHub MCP server",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&pws=0&hl=en&gl=us&q=GitHub+MCP+server&sa=X&ved=2ahUKEwjk0ODAotCVAxUFQTABHf0kK4EQ1QJ6BAgiEAE"
+    },
+    {
+      "query": "MCP server Python SDK",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&pws=0&hl=en&gl=us&q=MCP+server+Python+SDK&sa=X&ved=2ahUKEwjk0ODAotCVAxUFQTABHf0kK4EQ1QJ6BAgfEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Model+Context+Protocol+MCP+python+servers+open+source+examples&oq=Model+Context+Protocol+MCP+python+servers+open+source+examples&gl=us&hl=en&pws=0&start=10"
+  }
+}

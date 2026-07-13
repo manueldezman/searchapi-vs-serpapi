@@ -1,0 +1,588 @@
+{
+  "search_metadata": {
+    "id": "6a552ca0a26f5697e1fa0af8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/qD24nPWSgtpt4DeUM0LoXQ/6a552ca0a26f5697e1fa0af8.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/qD24nPWSgtpt4DeUM0LoXQ/6a552ca0a26f5697e1fa0af8.json_with_pixel_position",
+    "created_at": "2026-07-13 18:21:20 UTC",
+    "processed_at": "2026-07-13 18:21:20 UTC",
+    "google_url": "https://www.google.com/search?q=Model+Context+Protocol+MCP+python+servers+open+source+examples&oq=Model+Context+Protocol+MCP+python+servers+open+source+examples&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/qD24nPWSgtpt4DeUM0LoXQ/6a552ca0a26f5697e1fa0af8.html",
+    "total_time_taken": 8.34
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Model Context Protocol MCP python servers open source examples",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Model Context Protocol MCP python servers open source examples",
+    "total_results": 204,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Build an MCP Server in 20 Minutes (with Python)",
+      "link": "https://www.youtube.com/watch?v=vzGkSn59rDU",
+      "thumbnail": "https://serpapi.com/searches/6a552ca0a26f5697e1fa0af8/images/XnLB-Mx-v1V0G6OOoNn0fckAHx2UyW9XaHwAoB4wN7Q.jpeg",
+      "channel": "pixegami",
+      "duration": "19:21",
+      "platform": "YouTube",
+      "date": "Jun 24, 2025",
+      "snippet": "Learn to build an MCP server in Python and connect it to Claude Desktop for an AI agent with extended capabilities like fetching weather data and creating spreadsheets.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTzWegUjRdHX5Opl3OXfLUFDFZ7lnZCpJUjMg"
+    },
+    {
+      "position": 2,
+      "title": "Intro to MCP Servers – Model Context Protocol with Python ...",
+      "link": "https://www.youtube.com/watch?v=DosHnyq78xY",
+      "thumbnail": "https://serpapi.com/searches/6a552ca0a26f5697e1fa0af8/images/YthH9VJD3p_QoFQp2v8OduuoseU36bjLYzCw77EZ_2E.jpeg",
+      "channel": "freeCodeCamp.org",
+      "duration": "1:12:43",
+      "platform": "YouTube",
+      "date": "Oct 15, 2025",
+      "snippet": "Learn to create Mono Context Protocol (MCP) servers using FastMCP and FastAPI-MCP in this hands-on course.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS-anOH-3DNq-PrIVgvunwSp04OXkILiZabww"
+    },
+    {
+      "position": 3,
+      "title": "Model Context Protocol - Explained! (with Python example)",
+      "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho",
+      "thumbnail": "https://serpapi.com/searches/6a552ca0a26f5697e1fa0af8/images/HE6tWJe3Ni0rJDUj4JaBJyrwaCKJQSbFdFXNa5ajsXw.jpeg",
+      "channel": "BugBytes",
+      "duration": "25:28",
+      "platform": "YouTube",
+      "date": "May 26, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSu2UjegbX_4SOkgTsg8zCNYhAEbBDP8I8uCw",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro to MCP Model Context Protocol",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7l4ekZoDd3VNppBDk2la2OoGLHXKHDftDCyvcRcJ_Cw&s"
+        },
+        {
+          "time": "03:36",
+          "title": "MCP Servers",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=216",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfuAN8JdxKOVu1VoJIxDGJswJ_XEgTRS44TmlyrlUqg&s"
+        },
+        {
+          "time": "04:07",
+          "title": "Installing MCP Python SDK with uv",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=247",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVPgZV_jtzGG1_EN1-S3lNkai0q5JGNrKI2Gq3zs-csg&s"
+        },
+        {
+          "time": "04:54",
+          "title": "FastMCP server object",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=294",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPZNw1SArI-hI_tgN7k1U_JSp_F0f_vhTwI-7419cZg&s"
+        },
+        {
+          "time": "07:39",
+          "title": "Creating MCP Tool to fetch user top 5 books",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=459",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHC2uHDpoc59jcy4ptLwx4FMNxpRMwviuIzr9GphkK2g&s"
+        },
+        {
+          "time": "13:25",
+          "title": "MCP Transports",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=805",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUFZ7kXUutBF8gdA3OQ7gR-jOrYdAu7u0YHzsGWY8Swg&s"
+        },
+        {
+          "time": "14:12",
+          "title": "Adding MCP Server to Claude Desktop",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=852",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nRjB884q5nUVOz0eU3Nr9Aykk2nYN0az-XBSQzNgEQ&s"
+        },
+        {
+          "time": "20:22",
+          "title": "MCP Resources",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=1222",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWht0ejqspri2t8XNnvdrcqdYq1G-B7hsvXWpnXrwoxw&s"
+        },
+        {
+          "time": "23:11",
+          "title": "MCP Inspector",
+          "link": "https://www.youtube.com/watch?v=JF14z6XO4Ho&t=1391",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScnZ6mlSZ42VkQxjPVH9U91zk0Gc31PGMtqrdRYAYj5Q&s"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "title": "Model Context Protocol (MCP) Explained | How to Use MCP ...",
+      "link": "https://www.youtube.com/watch?v=Eby_icnBLBk",
+      "thumbnail": "https://serpapi.com/searches/6a552ca0a26f5697e1fa0af8/images/J3QfVrdPhBS3cV_M0ZMd0yUSU1TgI0pEegSV1U-ZYNI.jpeg",
+      "channel": "Kody Simpson",
+      "duration": "16:31",
+      "platform": "YouTube",
+      "date": "Aug 3, 2025",
+      "snippet": "MCP (Model Context Protocol) provides a standard way for large language models to connect to external sources like Google Drive, GitHub, and the file system using MCP servers.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSkM9WAFGEEYgPA1EuOd7I7oIf0m09lNYcYBA"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "rXWNnHicxVbbcqpIFH2Zt_Md44tRwGjUVFGnmoYI3gkHc5IXChAb5dJIEy95m3-Zr5qvmQZFMcGkzqmamn6wuzdrr9692YvtX3_7y9D759sfbpJE5J5httttHWGMfKdu44AxyT60mQX2SWy73_cb_rZiE56tOEt-DXczE-_hKGmTKFGn3ebt1gNKJXPhDcskzooy7laEMRj64_15K9JNndSdsC7VplZLsGZI0-sNluvWJ4wZUAD4TwcEUEknBSA6oRKEgJQvOCQFCJRCPRlyB6kA2mY7QaAnZgh4jU098DzClGb6Nl6AEd2ymXHyWRj9y-0wCz5zpoySIJW4nEP9aBnkhrKkXHMGh9MA0A9rsehcHgFF9Ip7iIBSy0xH3zxTSs59OASmOU3HCAkdGQHRlfSrkVIWDMQe0lR0Lex86FgL87VF8w4BM0e0DlnGiunEMUvbtbNFTNLyhD-6LJZrXlsE-iPGDaf5xL5FO4-toU0wfOwBxrYozsfm3JkbrsF-z_Zcg2ux3dt25ybThU1OwiBFYYxZznxbvL5SLdWHdYErqAKdsnKZTfBYdi0lT16JQ1q-6VJKF4J3fnTE9tz0wflVSsCVae5HJ5wDgPYxrSlriSqOFMeRklBVZMHBwww_hqmqJ70UHzQ_HvhuPaLSFvLI4SnkdK1eelCclALV453O1ZqKVRFoBDBThXCAiDKtv7OKhXNtHglUAQLpxJLTZq5eAYcAxQEkPKRGD6JBSpriMtf8XUKveLks_ssvyAMCCOrXPyufjcHXEBXk5f-umosqeOAUsbnylJ_exH9oyD9HfZE1w0Hjedrdllc9Dqxf6Af2_62LQ7dAebco1YXyhS4kRfikWxzrZZvrIsMNBHhVF1o2v-sWncx46hZluuhf6uLULeD7blHUhfK1LtBVXSjHpJToQi_RhVeqi7xbFHTxvlvA02kp91kXv94tzN_rFplMnMN02TpeV-h6CwEvMy5y9afdZOgR4s63xvptZj9ERoy-bCGLILkPzLl_Yyzn90Kjn-znNwY14HtnXlnzIzx3_CrEYeLskuo0xgm2sV8dwWk12icuDqvEiTdOTKo4cugGv8a2U3V2ZhD5DqkEfox51mzZACfWqmVpvqHJwaaTyKuhfqesu2aNmF0fcMLsRXur7Wbr8DW8k1RvgrW7kSfX1J3qTXdDILWaS1EEckeUVpYhbAZkHIZ7eWMO3UXPaHefIv2prVraet8faGZzEKMp1prP7N02bPR-WI_LzZL0xiMzGbNiFhXho4k2ll8GyrPeqdALE4fnKkFs8_SFNxEYq-AJCTaAz0ClfyxU-l5VuKWFUSG2aThkwzccu7no2Oa8e9dusbdmJUDJPuI7FRLGPPcvXhYjBA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rXWNnHicxVbbcqpIFH2Zt_Md44tRwGjUVFGnmoYI3gkHc5IXChAb5dJIEy95m3-Zr5qvmQZFMcGkzqmamn6wuzdrr9692YvtX3_7y9D759sfbpJE5J5httttHWGMfKdu44AxyT60mQX2SWy73_cb_rZiE56tOEt-DXczE-_hKGmTKFGn3ebt1gNKJXPhDcskzooy7laEMRj64_15K9JNndSdsC7VplZLsGZI0-sNluvWJ4wZUAD4TwcEUEknBSA6oRKEgJQvOCQFCJRCPRlyB6kA2mY7QaAnZgh4jU098DzClGb6Nl6AEd2ymXHyWRj9y-0wCz5zpoySIJW4nEP9aBnkhrKkXHMGh9MA0A9rsehcHgFF9Ip7iIBSy0xH3zxTSs59OASmOU3HCAkdGQHRlfSrkVIWDMQe0lR0Lex86FgL87VF8w4BM0e0DlnGiunEMUvbtbNFTNLyhD-6LJZrXlsE-iPGDaf5xL5FO4-toU0wfOwBxrYozsfm3JkbrsF-z_Zcg2ux3dt25ybThU1OwiBFYYxZznxbvL5SLdWHdYErqAKdsnKZTfBYdi0lT16JQ1q-6VJKF4J3fnTE9tz0wflVSsCVae5HJ5wDgPYxrSlriSqOFMeRklBVZMHBwww_hqmqJ70UHzQ_HvhuPaLSFvLI4SnkdK1eelCclALV453O1ZqKVRFoBDBThXCAiDKtv7OKhXNtHglUAQLpxJLTZq5eAYcAxQEkPKRGD6JBSpriMtf8XUKveLks_ssvyAMCCOrXPyufjcHXEBXk5f-umosqeOAUsbnylJ_exH9oyD9HfZE1w0Hjedrdllc9Dqxf6Af2_62LQ7dAebco1YXyhS4kRfikWxzrZZvrIsMNBHhVF1o2v-sWncx46hZluuhf6uLULeD7blHUhfK1LtBVXSjHpJToQi_RhVeqi7xbFHTxvlvA02kp91kXv94tzN_rFplMnMN02TpeV-h6CwEvMy5y9afdZOgR4s63xvptZj9ERoy-bCGLILkPzLl_Yyzn90Kjn-znNwY14HtnXlnzIzx3_CrEYeLskuo0xgm2sV8dwWk12icuDqvEiTdOTKo4cugGv8a2U3V2ZhD5DqkEfox51mzZACfWqmVpvqHJwaaTyKuhfqesu2aNmF0fcMLsRXur7Wbr8DW8k1RvgrW7kSfX1J3qTXdDILWaS1EEckeUVpYhbAZkHIZ7eWMO3UXPaHefIv2prVraet8faGZzEKMp1prP7N02bPR-WI_LzZL0xiMzGbNiFhXho4k2ll8GyrPeqdALE4fnKkFs8_SFNxEYq-AJCTaAz0ClfyxU-l5VuKWFUSG2aThkwzccu7no2Oa8e9dusbdmJUDJPuI7FRLGPPcvXhYjBA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "MCP Python SDK",
+      "link": "https://github.com/modelcontextprotocol/python-sdk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/modelcontextprotocol/python-sdk&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQFnoECBcQAQ",
+      "displayed_link": "https://github.com › modelcontextprotocol › python-sdk",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX____4-Pi3ubtvcnZNUVU-Q0cpLjLr6-x3en0sMTYkKS59gIORk5aUl5n8_Pzw8PFTV1tbX2Pc3d5DSEzn5-g3PECLjpFKTlKFh4qxs7XCxMUuMze_wcLh4uPV1tZzd3o_Q0jOz9CmqKpjZ2qfoaTxAyfNAAABPUlEQVR4AW3TBYKDMBQE0AltAgzuzur9z7ibH5oKfWjc4UEFl6s2Rl8vgcJZGMX04iTEM5UaPomzHA-KkidVAa_WfKNpffMd32oKCHUlWfb27Q19ZSMVrNHGTMDckMtQLqSegdXGpvi3Sf93W9UudRby2WzsEgL4oMvwoqY1AsrQNfFipbXkCGh1BV6oT1pfRwvfOJlo9ZA5NAonStbmB1pawBuDTAgkX4MzV_eC2H3e0C7lk1aBEzd-7SpigJOZVoXx-J5UxzADil-8-KZYoRaK5y2WZxSdgm0j-dakzkIc2kzT6W3IcFnDTzdt4sKbWMqkpNl229IMsfMmg6UaMsJXmv4qCMXDoI4mO5oADwyFDnGoO3KI0jSHQ6E3eJum5TP4Y-EVyUOGXHZjgWd7ZEwOJzZRjbPQt7mF8P4AzsYZpmkFLF4AAAAASUVORK5CYII.png",
+      "snippet": "What is MCP? The Model Context Protocol lets you build servers that expose data and functionality to LLM applications in a secure, standardized way.",
+      "snippet_highlighted_words": [
+        "MCP",
+        "Model Context Protocol",
+        "servers"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What is MCP? The Model Context Protocol lets you build servers that expose data and functionality to LLM applications in a secure, standardized way.",
+          "source_info_link": "https://github.com/modelcontextprotocol/python-sdk",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX____4-Pi3ubtvcnZNUVU-Q0cpLjLr6-x3en0sMTYkKS59gIORk5aUl5n8_Pzw8PFTV1tbX2Pc3d5DSEzn5-g3PECLjpFKTlKFh4qxs7XCxMUuMze_wcLh4uPV1tZzd3o_Q0jOz9CmqKpjZ2qfoaTxAyfNAAABPUlEQVR4AW3TBYKDMBQE0AltAgzuzur9z7ibH5oKfWjc4UEFl6s2Rl8vgcJZGMX04iTEM5UaPomzHA-KkidVAa_WfKNpffMd32oKCHUlWfb27Q19ZSMVrNHGTMDckMtQLqSegdXGpvi3Sf93W9UudRby2WzsEgL4oMvwoqY1AsrQNfFipbXkCGh1BV6oT1pfRwvfOJlo9ZA5NAonStbmB1pawBuDTAgkX4MzV_eC2H3e0C7lk1aBEzd-7SpigJOZVoXx-J5UxzADil-8-KZYoRaK5y2WZxSdgm0j-dakzkIc2kzT6W3IcFnDTzdt4sKbWMqkpNl229IMsfMmg6UaMsJXmv4qCMXDoI4mO5oADwyFDnGoO3KI0jSHQ6E3eJum5TP4Y-EVyUOGXHZjgWd7ZEwOJzZRjbPQt7mF8P4AzsYZpmkFLF4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://github.com/modelcontextprotocol/python-sdk&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fgithub.com%2Fmodelcontextprotocol%2Fpython-sdk",
+      "source": "GitHub",
+      "read_more_link": "https://github.com/modelcontextprotocol/python-sdk#:~:text=What%20is%20MCP%3F,in%20a%20secure%2C%20standardized%20way."
+    },
+    {
+      "position": 2,
+      "title": "Introducing the Model Context Protocol",
+      "link": "https://www.anthropic.com/news/model-context-protocol",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.anthropic.com/news/model-context-protocol&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQFnoECBsQAQ",
+      "displayed_link": "https://www.anthropic.com › news › model-context-pro...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEX6-fX8-_f___z__vrg39xxcG55eHZ2dXOuraqEg4EAAADKycbU09ASEhFoZ2b___81NDMJCQi2tbIVFRTx8O1IR0YFBQPEw8Cfn5wkJCOIh4WSkY85OTgtLCv08-9OTkwdHRzc29dWAx6AAAAAv0lEQVR4AdXRhRXDMAwE0PgUvIAaZtp_yDK6XaBKzPSf7fxpGACOI4D5MeZ6fiASBp77PYqIZIyEjPC10DBNmakechp7qRRMy5QVQrIQa1Drhi3ZwWFTq80hfc3zXjUgLRIGMtHxTho-SEaYT6oV6anOOcV8cvLa96MzaUFnkXRtUpI85x0WNqt-cNJ5vUSez6reBwkXiV4iIpMLacQbh8S1lpAedOPrlsweDXcChiEy0g7Rbt5eSx5uiPVufxMn2XIK1RQCe-UAAAAASUVORK5CYII.png",
+      "date": "Nov 25, 2024",
+      "snippet": "The Model Context Protocol is an open standard that enables developers to build secure, two-way connections between their data sources and AI-powered tools.",
+      "snippet_highlighted_words": [
+        "Model Context Protocol",
+        "open",
+        "sources"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Model Context Protocol is an open standard that enables developers to build secure, two-way connections between their data sources and AI-powered tools.",
+          "source_info_link": "https://www.anthropic.com/news/model-context-protocol",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEX6-fX8-_f___z__vrg39xxcG55eHZ2dXOuraqEg4EAAADKycbU09ASEhFoZ2b___81NDMJCQi2tbIVFRTx8O1IR0YFBQPEw8Cfn5wkJCOIh4WSkY85OTgtLCv08-9OTkwdHRzc29dWAx6AAAAAv0lEQVR4AdXRhRXDMAwE0PgUvIAaZtp_yDK6XaBKzPSf7fxpGACOI4D5MeZ6fiASBp77PYqIZIyEjPC10DBNmakechp7qRRMy5QVQrIQa1Drhi3ZwWFTq80hfc3zXjUgLRIGMtHxTho-SEaYT6oV6anOOcV8cvLa96MzaUFnkXRtUpI85x0WNqt-cNJ5vUSez6reBwkXiV4iIpMLacQbh8S1lpAedOPrlsweDXcChiEy0g7Rbt5eSx5uiPVufxMn2XIK1RQCe-UAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.anthropic.com/news/model-context-protocol&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.anthropic.com%2Fnews%2Fmodel-context-protocol",
+      "source": "Anthropic",
+      "read_more_link": "https://www.anthropic.com/news/model-context-protocol#:~:text=The%20Model%20Context%20Protocol%20is,data%20sources%20and%20AI%2Dpowered%20tools."
+    },
+    {
+      "position": 3,
+      "title": "Discovering MCP Servers in Python",
+      "link": "https://codesignal.com/learn/courses/developing-and-integrating-a-mcp-server-in-python/lessons/getting-started-with-fastmcp-running-your-first-mcp-server-with-stdio-and-sse",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://codesignal.com/learn/courses/developing-and-integrating-a-mcp-server-in-python/lessons/getting-started-with-fastmcp-running-your-first-mcp-server-with-stdio-and-sse&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQFnoECBgQAQ",
+      "displayed_link": "https://codesignal.com › learn › courses › lessons › getti...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEUQYvsQYvsQYvsQYvsNYfwFZvwEX_wAW_yBqP2qxf6PtP5woP1MiP0vdvzx9v_____4-__j7f_L3f87gf250P7Z5v9Ri_0bavzG2v9nmP2Zu_4QYvvfi6J8AAAAHHRSTlMdrfr_______________________________-xxcf3HAAAAQ1JREFUeAF90wUCgzAMBVAgbVJLvUh3_3vOfezjPKQ6DOMEPzONJ4PdjMO0j9MApwjxcft254ISiQiFuN6-XMgbClDaWMcSCU-rZGeNViAuCKR8CCGmrJl1TvF04RXBFZFTLtbUFowJrRpbcmK8oUDtZ16kXFNapVx49hrFDYG26FvurEJQ3HPzcSO4Iy7N61ode8-uVu3bgg8E6tFJBqqVgKWLneAFS0i128We1l5TKK8osK8pxm1ZthjT2lG8IAgiKq0C1FaI6GQ3vAVRJ-ak8VKWV7xVyFq_EfxC5LaujfEnCuwxdhQ_EWiOcSb4jUK2JsUekjEEOwjIjLv4OZhOuJ__Q3Pcx8Of6XAYjv3AE7zQrPPRAAAAAElFTkSuQmCC.png",
+      "snippet": "This lesson introduces the Model Context Protocol (MCP) and guides you through setting up and running a basic MCP server in Python using the FastMCP class.",
+      "snippet_highlighted_words": [
+        "Model Context Protocol",
+        "MCP",
+        "MCP server",
+        "Python"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This lesson introduces the Model Context Protocol (MCP) and guides you through setting up and running a basic MCP server in Python using the FastMCP class.",
+          "source_info_link": "https://codesignal.com/learn/courses/developing-and-integrating-a-mcp-server-in-python/lessons/getting-started-with-fastmcp-running-your-first-mcp-server-with-stdio-and-sse",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEUQYvsQYvsQYvsQYvsNYfwFZvwEX_wAW_yBqP2qxf6PtP5woP1MiP0vdvzx9v_____4-__j7f_L3f87gf250P7Z5v9Ri_0bavzG2v9nmP2Zu_4QYvvfi6J8AAAAHHRSTlMdrfr_______________________________-xxcf3HAAAAQ1JREFUeAF90wUCgzAMBVAgbVJLvUh3_3vOfezjPKQ6DOMEPzONJ4PdjMO0j9MApwjxcft254ISiQiFuN6-XMgbClDaWMcSCU-rZGeNViAuCKR8CCGmrJl1TvF04RXBFZFTLtbUFowJrRpbcmK8oUDtZ16kXFNapVx49hrFDYG26FvurEJQ3HPzcSO4Iy7N61ode8-uVu3bgg8E6tFJBqqVgKWLneAFS0i128We1l5TKK8osK8pxm1ZthjT2lG8IAgiKq0C1FaI6GQ3vAVRJ-ak8VKWV7xVyFq_EfxC5LaujfEnCuwxdhQ_EWiOcSb4jUK2JsUekjEEOwjIjLv4OZhOuJ__Q3Pcx8Of6XAYjv3AE7zQrPPRAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://codesignal.com/learn/courses/developing-and-integrating-a-mcp-server-in-python/lessons/getting-started-with-fastmcp-running-your-first-mcp-server-with-stdio-and-sse&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcodesignal.com%2Flearn%2Fcourses%2Fdeveloping-and-integrating-a-mcp-server-in-python%2Flessons%2Fgetting-started-with-fastmcp-running-your-first-mcp-server-with-stdio-and-sse",
+      "source": "CodeSignal"
+    },
+    {
+      "position": 4,
+      "title": "Model Context Protocol servers",
+      "link": "https://mcpservers.org/servers/iamadk/reference-servers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mcpservers.org/servers/iamadk/reference-servers&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQFnoECBkQAQ",
+      "displayed_link": "https://mcpservers.org › Servers",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEV0cnNHcEwWFhYGBgYBAQEEBAQWFhYeHh4GBgYICAgLCwwoKCgLCwsQEBAHBwgICAgQEBACAwMLCwsEBAQYGBkjIyPkT3NBAAAAFnRSTlMCAKX__8cmGNerRAuOV-S89rN38jcyynam-QAAAQhJREFUeAGt01digzAQRVE9zwMJNScC73-rUUmZuLehc88XxRhcnVsdeBPYCacZesY9OwAcl3rpdQ7CJVJsB4kJQK573efauHSwE0CJ3qV2YP-hgBK1W7T5_ANlddsQo4f9umhQ6Fb6IWzrwj0nBVwG8hBz72IRqUCeMIQjaSF1QzkCPnVRisEq1pYT4DgEzMo5CE9Ar22r3YjYEzClUUXmuvc5HAPukLkhLrXL7Hk4BWgF6O4C6O_A0eMSgKVkJpyCUiANwE45YYDDpwJAA2o8N-A_4C0gF4EpDEBg1GAbn6FrAJZ52zIt9KyS5oWpA3jW8YAeu5KMGKASj5PZfLjxZxm1f-H3Nl-yqBAr65HgFgAAAABJRU5ErkJggg.png",
+      "snippet": "A collection of reference server implementations for the Model Context Protocol (MCP) using Typescript and Python SDKs. Open Source MacOS & Windows",
+      "snippet_highlighted_words": [
+        "server",
+        "Model Context Protocol",
+        "MCP",
+        "Python",
+        "Open Source"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A collection of reference server implementations for the Model Context Protocol (MCP) using Typescript and Python SDKs. Open Source MacOS & Windows",
+          "source_info_link": "https://mcpservers.org/servers/iamadk/reference-servers",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEV0cnNHcEwWFhYGBgYBAQEEBAQWFhYeHh4GBgYICAgLCwwoKCgLCwsQEBAHBwgICAgQEBACAwMLCwsEBAQYGBkjIyPkT3NBAAAAFnRSTlMCAKX__8cmGNerRAuOV-S89rN38jcyynam-QAAAQhJREFUeAGt01digzAQRVE9zwMJNScC73-rUUmZuLehc88XxRhcnVsdeBPYCacZesY9OwAcl3rpdQ7CJVJsB4kJQK573efauHSwE0CJ3qV2YP-hgBK1W7T5_ANlddsQo4f9umhQ6Fb6IWzrwj0nBVwG8hBz72IRqUCeMIQjaSF1QzkCPnVRisEq1pYT4DgEzMo5CE9Ar22r3YjYEzClUUXmuvc5HAPukLkhLrXL7Hk4BWgF6O4C6O_A0eMSgKVkJpyCUiANwE45YYDDpwJAA2o8N-A_4C0gF4EpDEBg1GAbn6FrAJZ52zIt9KyS5oWpA3jW8YAeu5KMGKASj5PZfLjxZxm1f-H3Nl-yqBAr65HgFgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mcpservers.org/servers/iamadk/reference-servers&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmcpservers.org%2Fservers%2Fiamadk%2Freference-servers",
+      "source": "MCP Servers"
+    },
+    {
+      "position": 5,
+      "title": "Practical Guide to MCP (Model Context Protocol) in Python",
+      "link": "https://dev.to/m_sea_bass/practical-guide-to-mcp-model-context-protocol-in-python-ijd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dev.to/m_sea_bass/practical-guide-to-mcp-model-context-protocol-in-python-ijd&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQFnoECBoQAQ",
+      "displayed_link": "https://dev.to › m_sea_bass › practical-guide-to-mcp-m...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAMAAABY1h8eAAAAS1BMVEUAAAAAAAAAAAAAAAAGBgYAAAC6urr39_f19fXT09NKSkrj4-P___-wsLCdnZ1cXFzHx8cXFxdlZWV4eHgfHx-RkZGHh4empqYmJiaIq-h1AAAABnRSTlMl6f_T_v6d86gKAAAAp0lEQVR4AcXSRQKEMBAF0VCD9w9u97_ouKFbavsg7lzAToFzl3APw8CF7Oc4wugcjJM0zXJCS9NUeBWAqXxhpUd1o0e0MugkPpgTq28UA4QSDMq-WDKoeCGYGir1SzRfAKM8ifIlSgaUskkpS6zKHEAqFLM552v17Q_7xtTe_2yaNoT-juEP7xnla7vPTWZ8cPDeD0Dv74VA6evzrowjDI_w8N0evfgbpM4OMGs0DpUAAAAASUVORK5CYII.png",
+      "date": "Nov 2, 2025",
+      "snippet": "MCP (Model Context Protocol) is a protocol that connects LLMs with external tools. This article walks through how to use MCP step by step with ...",
+      "snippet_highlighted_words": [
+        "MCP (Model Context Protocol"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "MCP (Model Context Protocol) is a protocol that connects LLMs with external tools. This article walks through how to use MCP step by step with ...",
+          "source_info_link": "https://dev.to/m_sea_bass/practical-guide-to-mcp-model-context-protocol-in-python-ijd",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAMAAABY1h8eAAAAS1BMVEUAAAAAAAAAAAAAAAAGBgYAAAC6urr39_f19fXT09NKSkrj4-P___-wsLCdnZ1cXFzHx8cXFxdlZWV4eHgfHx-RkZGHh4empqYmJiaIq-h1AAAABnRSTlMl6f_T_v6d86gKAAAAp0lEQVR4AcXSRQKEMBAF0VCD9w9u97_ouKFbavsg7lzAToFzl3APw8CF7Oc4wugcjJM0zXJCS9NUeBWAqXxhpUd1o0e0MugkPpgTq28UA4QSDMq-WDKoeCGYGir1SzRfAKM8ifIlSgaUskkpS6zKHEAqFLM552v17Q_7xtTe_2yaNoT-juEP7xnla7vPTWZ8cPDeD0Dv74VA6evzrowjDI_w8N0evfgbpM4OMGs0DpUAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://dev.to/m_sea_bass/practical-guide-to-mcp-model-context-protocol-in-python-ijd&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdev.to%2Fm_sea_bass%2Fpractical-guide-to-mcp-model-context-protocol-in-python-ijd",
+      "source": "DEV Community"
+    },
+    {
+      "position": 6,
+      "title": "Building Your Own Model Context Protocol (MCP) Server With ...",
+      "link": "https://www.coderslexicon.com/building-your-own-model-context-protocol-mcp-server-with-node-and-python/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coderslexicon.com/building-your-own-model-context-protocol-mcp-server-with-node-and-python/&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQFnoECB0QAQ",
+      "displayed_link": "https://www.coderslexicon.com › building-your-own-mo...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABj0lEQVR4AZSQU7YcURSG_33aMZ9jjCCaQYYQcx79mBnEtm3bdnJtG-X671nt7sv61qo6_jaQTCZzX0vN72R3W_UWPRf9YSJfET9eXCKNNhp9nXx89eAuAIIAyM-Xl8mBZpIeafex4c_Tzue3Tw--fXiOj64e_Xrj7J619y4dWIlCZq9Zv3Og4SPdrjJ-e3YxJ_CtHtJoYvW7Y2z594RmTyNzeANs-3mXAMIKKrTUp4K-ABKl5PYcaxC-54DOAHyjC67jQDNTQUPfC1ouSA8aSQm0GkGh76dGBQgYVJB642YFuXQCQS-XQb4EEQFC4Qn1wy_IIFfC3JkR_Hl3C9-fnQUkpD8ZQ5DPIFdPIhbFnFnTMHcqUfP-FPq7OiEiqa8QkXzZ4dQFJYhFIxCGYRkuKiobYZgmDOsR2toN2BXNmL_cxuK5i5AqMWRDZaThkACnHpfDpUKeKamP9T34PTADCsSvtxWA_rLEVb7xQ1MAYicgdkbD7qIpy_5r5yw6iEXOGapHAF9AMwOxCBDz4lMEACbm8-X4RkW9AAAAAElFTkSuQmCC.png",
+      "date": "Jun 3, 2025",
+      "snippet": "In this post I will show you all you need to set it up using either Node.js (using the @modelcontextprotocol/sdk) or Python (through the use of FastMCP).",
+      "snippet_highlighted_words": [
+        "modelcontextprotocol",
+        "Python"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this post I will show you all you need to set it up using either Node.js (using the @modelcontextprotocol/sdk) or Python (through the use of FastMCP).",
+          "source_info_link": "https://www.coderslexicon.com/building-your-own-model-context-protocol-mcp-server-with-node-and-python/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABj0lEQVR4AZSQU7YcURSG_33aMZ9jjCCaQYYQcx79mBnEtm3bdnJtG-X671nt7sv61qo6_jaQTCZzX0vN72R3W_UWPRf9YSJfET9eXCKNNhp9nXx89eAuAIIAyM-Xl8mBZpIeafex4c_Tzue3Tw--fXiOj64e_Xrj7J619y4dWIlCZq9Zv3Og4SPdrjJ-e3YxJ_CtHtJoYvW7Y2z594RmTyNzeANs-3mXAMIKKrTUp4K-ABKl5PYcaxC-54DOAHyjC67jQDNTQUPfC1ouSA8aSQm0GkGh76dGBQgYVJB642YFuXQCQS-XQb4EEQFC4Qn1wy_IIFfC3JkR_Hl3C9-fnQUkpD8ZQ5DPIFdPIhbFnFnTMHcqUfP-FPq7OiEiqa8QkXzZ4dQFJYhFIxCGYRkuKiobYZgmDOsR2toN2BXNmL_cxuK5i5AqMWRDZaThkACnHpfDpUKeKamP9T34PTADCsSvtxWA_rLEVb7xQ1MAYicgdkbD7qIpy_5r5yw6iEXOGapHAF9AMwOxCBDz4lMEACbm8-X4RkW9AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.coderslexicon.com/building-your-own-model-context-protocol-mcp-server-with-node-and-python/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.coderslexicon.com%2Fbuilding-your-own-model-context-protocol-mcp-server-with-node-and-python%2F",
+      "source": "coderslexicon.com",
+      "read_more_link": "https://www.coderslexicon.com/building-your-own-model-context-protocol-mcp-server-with-node-and-python/#:~:text=In%20this%20post%20I%20will,(through%20the%20use%20of%20FastMCP)."
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "Mehul Mohan",
+      "source": "YouTube",
+      "duration": "19:27",
+      "extensions": [
+        "11.5K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/OmWjC_M44Ss/hqdefault.jpg"
+      ],
+      "title": "Building MCP Server From Scratch (Complete Tutorial)",
+      "date": "May 1, 2026",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR1XbYReUqa47xiGoTtTir0fMQzuS0jayIrTg"
+    },
+    {
+      "author": "Moonpie",
+      "source": "Medium",
+      "extensions": [
+        "50+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQABjnqhqL-v4W8zGhF8vYjEY39SJ74jZda97W1pOMjGazOhrHQFuiEsqDwmQ&usqp=CAI&s"
+      ],
+      "title": "Meet the MCP (Model Context Protocol) Team | by Moonpie | The Tech Trek by Tech Chick👑👩🏻‍",
+      "date": "May 12, 2026"
+    },
+    {
+      "author": "AI Engineer",
+      "source": "YouTube",
+      "duration": "16:06",
+      "extensions": [
+        "8.2K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/_xIwFcnHqp4/hqdefault.jpg"
+      ],
+      "title": "Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub",
+      "date": "1 month ago"
+    },
+    {
+      "author": "freeCodeCamp",
+      "source": "LinkedIn",
+      "extensions": [
+        "770+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdIhjS6wdXP8qg2U9sB1PntE4Op3Y5TQSERjsA6On2u9jWdWGzPAYPhFZxg&usqp=CAI&s"
+      ],
+      "title": "You may have heard about the Model Context Protocol and wondered how it lets AI tools connect to other tools, APIs, and systems. Well, it's all thanks to MCP servers. In this guide, Manish explains how MCP servers work and helps you build your own with Pyt",
+      "date": "3 weeks ago"
+    },
+    {
+      "author": "Real Python",
+      "source": "YouTube",
+      "duration": "16:32",
+      "extensions": [
+        "300+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/Wct9d_Ijxx0/hqdefault.jpg"
+      ],
+      "title": "Testing MCP Servers With a Python MCP Client: Preparing & Structuring Your MCP Client",
+      "date": "4 days ago"
+    },
+    {
+      "author": "Pavan Dhake",
+      "source": "Medium",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVCMD1j-oVEbZB_94t8Q2t8gTnfhjfunbDUMMk1UfFNA7s7_YHZa-f42gS4A&usqp=CAI&s"
+      ],
+      "title": "A Guide to Building Your First MCP Server in 2026",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Shweta Lodha",
+      "source": "YouTube",
+      "duration": "16:09",
+      "extensions": [
+        "1.2K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/eXqSmNS-QtM/hqdefault.jpg"
+      ],
+      "title": "Make Claude Code Do Anything - Custom MCP Server Tutorial",
+      "date": "Apr 22, 2026"
+    },
+    {
+      "author": "Anubhav",
+      "source": "Medium",
+      "extensions": [
+        "370+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV9oB7KqhtCVyvQGO9XVmZMzyRzewejYu0hJUTC4USNg46V-ytH3mhejq3vw&usqp=CAI&s"
+      ],
+      "title": "What Is MCP? Build a Custom MCP Server in Python | by Anubhav | Data Science Collective | May, 2026",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Tech With Yeshwanth",
+      "source": "YouTube",
+      "duration": "16:44",
+      "extensions": [
+        "450+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/olFb1KDhTWY/hqdefault.jpg"
+      ],
+      "title": "Create & Deploy Custom MCP Server on AWS EC2 Using Python FastMCP (Prod Ready!) | Hands-on Demo",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Notion",
+      "source": "YouTube",
+      "duration": "5:03",
+      "extensions": [
+        "4.8K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/i0n6K5doPlI/hqdefault.jpg"
+      ],
+      "title": "How to use MCP and Custom Agents to automate your tool stack (full walkthrough)",
+      "date": "Apr 24, 2026",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTRLqkXz5d_birc2VT7xvqyPXWVKrVP1RzAEg"
+    },
+    {
+      "author": "Mastra",
+      "source": "YouTube",
+      "duration": "15:51",
+      "extensions": [
+        "310+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/1YygZ62qsA0/hqdefault.jpg"
+      ],
+      "title": "Three Generations of MCP Server Design — Kevin Whinnery, Stainless",
+      "date": "May 18, 2026"
+    },
+    {
+      "author": "Parvez Mohammed",
+      "source": "Medium",
+      "title": "Model Context Protocol (MCP) — Full Visual Guide | by Parvez Mohammed @ Techlatest.net | Jun, 2026",
+      "date": "3 weeks ago"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Model Context Protocol servers",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=Model+Context+Protocol+servers&sa=X&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Model+Context+Protocol+servers"
+    },
+    {
+      "block_position": 1,
+      "query": "GitHub Model Context Protocol",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=GitHub+Model+Context+Protocol&sa=X&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=GitHub+Model+Context+Protocol"
+    },
+    {
+      "block_position": 1,
+      "query": "MCP server Python example",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=MCP+server+Python+example&sa=X&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MCP+server+Python+example"
+    },
+    {
+      "block_position": 1,
+      "query": "MCP client Python example",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=MCP+client+Python+example&sa=X&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MCP+client+Python+example"
+    },
+    {
+      "block_position": 1,
+      "query": "MCP server examples",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=MCP+server+examples&sa=X&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MCP+server+examples"
+    },
+    {
+      "block_position": 1,
+      "query": "Model Context Protocol examples",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=Model+Context+Protocol+examples&sa=X&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Model+Context+Protocol+examples"
+    },
+    {
+      "block_position": 1,
+      "query": "MCP server Python SDK",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=MCP+server+Python+SDK&sa=X&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MCP+server+Python+SDK"
+    },
+    {
+      "block_position": 1,
+      "query": "MCP server FastMCP",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=MCP+server+FastMCP&sa=X&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MCP+server+FastMCP"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "How to connect MCP server via python client? #378",
+      "link": "https://github.com/orgs/modelcontextprotocol/discussions/378",
+      "date": "1 year ago",
+      "source": "GitHub",
+      "answers": [
+        {
+          "link": "https://github.com/orgs/modelcontextprotocol/discussions/378"
+        }
+      ]
+    },
+    {
+      "title": "Model Context Protocol (MCP) Integration Proposal #148",
+      "link": "https://github.com/JoshuaC215/agent-service-toolkit/discussions/148",
+      "date": "1 year ago",
+      "source": "GitHub",
+      "answers": [
+        {
+          "link": "https://github.com/JoshuaC215/agent-service-toolkit/discussions/148"
+        }
+      ]
+    },
+    {
+      "title": "What is the best way to build a python client to run against MCP Server ...",
+      "link": "https://www.reddit.com/r/mcp/comments/1lob0fj/what_is_the_best_way_to_build_a_python_client_to/",
+      "date": "1 year ago",
+      "extensions": [
+        "r/mcp",
+        "5 comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/mcp/comments/1lob0fj/what_is_the_best_way_to_build_a_python_client_to/"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Model+Context+Protocol+MCP+python+servers+open+source+examples&sca_esv=2ec4f8cad967503a&ei=qCxVaoyCMt7sptQP943wkAI&start=10&sa=N&sstk=AU9db-Al4h74QSRiW75uu_VHS0QhyipWz2tfV3DL8cj2PoHhMP_FbVJVXiVcvk4Jlk6JCQO3O9M51SHzmKZMkuD-fV820JHeHXv2-g&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ8NMDegQILBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Model+Context+Protocol+MCP+python+servers+open+source+examples&sca_esv=2ec4f8cad967503a&ei=qCxVaoyCMt7sptQP943wkAI&start=10&sa=N&sstk=AU9db-Al4h74QSRiW75uu_VHS0QhyipWz2tfV3DL8cj2PoHhMP_FbVJVXiVcvk4Jlk6JCQO3O9M51SHzmKZMkuD-fV820JHeHXv2-g&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ8tMDegQILBAE",
+      "3": "https://www.google.com/search?q=Model+Context+Protocol+MCP+python+servers+open+source+examples&sca_esv=2ec4f8cad967503a&ei=qCxVaoyCMt7sptQP943wkAI&start=20&sa=N&sstk=AU9db-Al4h74QSRiW75uu_VHS0QhyipWz2tfV3DL8cj2PoHhMP_FbVJVXiVcvk4Jlk6JCQO3O9M51SHzmKZMkuD-fV820JHeHXv2-g&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ8tMDegQILBAG",
+      "4": "https://www.google.com/search?q=Model+Context+Protocol+MCP+python+servers+open+source+examples&sca_esv=2ec4f8cad967503a&ei=qCxVaoyCMt7sptQP943wkAI&start=30&sa=N&sstk=AU9db-Al4h74QSRiW75uu_VHS0QhyipWz2tfV3DL8cj2PoHhMP_FbVJVXiVcvk4Jlk6JCQO3O9M51SHzmKZMkuD-fV820JHeHXv2-g&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ8tMDegQILBAI",
+      "5": "https://www.google.com/search?q=Model+Context+Protocol+MCP+python+servers+open+source+examples&sca_esv=2ec4f8cad967503a&ei=qCxVaoyCMt7sptQP943wkAI&start=40&sa=N&sstk=AU9db-Al4h74QSRiW75uu_VHS0QhyipWz2tfV3DL8cj2PoHhMP_FbVJVXiVcvk4Jlk6JCQO3O9M51SHzmKZMkuD-fV820JHeHXv2-g&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ8tMDegQILBAK",
+      "6": "https://www.google.com/search?q=Model+Context+Protocol+MCP+python+servers+open+source+examples&sca_esv=2ec4f8cad967503a&ei=qCxVaoyCMt7sptQP943wkAI&start=50&sa=N&sstk=AU9db-Al4h74QSRiW75uu_VHS0QhyipWz2tfV3DL8cj2PoHhMP_FbVJVXiVcvk4Jlk6JCQO3O9M51SHzmKZMkuD-fV820JHeHXv2-g&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ8tMDegQILBAM",
+      "7": "https://www.google.com/search?q=Model+Context+Protocol+MCP+python+servers+open+source+examples&sca_esv=2ec4f8cad967503a&ei=qCxVaoyCMt7sptQP943wkAI&start=60&sa=N&sstk=AU9db-Al4h74QSRiW75uu_VHS0QhyipWz2tfV3DL8cj2PoHhMP_FbVJVXiVcvk4Jlk6JCQO3O9M51SHzmKZMkuD-fV820JHeHXv2-g&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ8tMDegQILBAO",
+      "8": "https://www.google.com/search?q=Model+Context+Protocol+MCP+python+servers+open+source+examples&sca_esv=2ec4f8cad967503a&ei=qCxVaoyCMt7sptQP943wkAI&start=70&sa=N&sstk=AU9db-Al4h74QSRiW75uu_VHS0QhyipWz2tfV3DL8cj2PoHhMP_FbVJVXiVcvk4Jlk6JCQO3O9M51SHzmKZMkuD-fV820JHeHXv2-g&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ8tMDegQILBAQ",
+      "9": "https://www.google.com/search?q=Model+Context+Protocol+MCP+python+servers+open+source+examples&sca_esv=2ec4f8cad967503a&ei=qCxVaoyCMt7sptQP943wkAI&start=80&sa=N&sstk=AU9db-Al4h74QSRiW75uu_VHS0QhyipWz2tfV3DL8cj2PoHhMP_FbVJVXiVcvk4Jlk6JCQO3O9M51SHzmKZMkuD-fV820JHeHXv2-g&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ8tMDegQILBAS",
+      "10": "https://www.google.com/search?q=Model+Context+Protocol+MCP+python+servers+open+source+examples&sca_esv=2ec4f8cad967503a&ei=qCxVaoyCMt7sptQP943wkAI&start=90&sa=N&sstk=AU9db-Al4h74QSRiW75uu_VHS0QhyipWz2tfV3DL8cj2PoHhMP_FbVJVXiVcvk4Jlk6JCQO3O9M51SHzmKZMkuD-fV820JHeHXv2-g&ved=2ahUKEwiM9svFotCVAxVetokEHfcGHCIQ8tMDegQILBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Model+Context+Protocol+MCP+python+servers+open+source+examples&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Model+Context+Protocol+MCP+python+servers+open+source+examples&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Model+Context+Protocol+MCP+python+servers+open+source+examples&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Model+Context+Protocol+MCP+python+servers+open+source+examples&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Model+Context+Protocol+MCP+python+servers+open+source+examples&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Model+Context+Protocol+MCP+python+servers+open+source+examples&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Model+Context+Protocol+MCP+python+servers+open+source+examples&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Model+Context+Protocol+MCP+python+servers+open+source+examples&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Model+Context+Protocol+MCP+python+servers+open+source+examples&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Model+Context+Protocol+MCP+python+servers+open+source+examples&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Model+Context+Protocol+MCP+python+servers+open+source+examples&start=90"
+    }
+  }
+}

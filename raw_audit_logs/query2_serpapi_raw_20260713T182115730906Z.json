@@ -1,0 +1,574 @@
+{
+  "search_metadata": {
+    "id": "6a552caa80c963678514a468",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YpD7lyX6E8pL6k7O9pRitg/6a552caa80c963678514a468.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/YpD7lyX6E8pL6k7O9pRitg/6a552caa80c963678514a468.json_with_pixel_position",
+    "created_at": "2026-07-13 18:21:30 UTC",
+    "processed_at": "2026-07-13 18:21:30 UTC",
+    "google_url": "https://www.google.com/search?q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&oq=n8n+webhooks+custom+HTTP+response+configuration+guidelines&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/YpD7lyX6E8pL6k7O9pRitg/6a552caa80c963678514a468.html",
+    "total_time_taken": 1.15
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "n8n webhooks custom HTTP response configuration guidelines",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "n8n webhooks custom HTTP response configuration guidelines",
+    "total_results": 111,
+    "time_taken_displayed": 0.35,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "The Ultimate Guide to Webhooks in n8n (Step-by-Step)",
+      "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8",
+      "thumbnail": "https://serpapi.com/searches/6a552caa80c963678514a468/images/VXZswhzIOiJWyEldzJeHCJBaO5ldvObCn_SuYHcHkA4.jpeg",
+      "channel": "Michele Torti",
+      "duration": "17:42",
+      "platform": "YouTube",
+      "date": "Aug 24, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTpQnucysoIJU4x7rknj0kFPEAULpshJTTVvA",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Why You Need to Understand Webhooks",
+          "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8&t=0",
+          "thumbnail": "https://serpapi.com/searches/6a552caa80c963678514a468/images/VXZswhzIOiJWyEldzJeHCP_EtdcyPGACa9F3nM29v-R5wI2cbn6s65ccqZ7xBMJ4.jpeg"
+        },
+        {
+          "time": "00:25",
+          "title": "Webhooks Explained",
+          "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8&t=25",
+          "thumbnail": "https://serpapi.com/searches/6a552caa80c963678514a468/images/VXZswhzIOiJWyEldzJeHCEFmq7Q6nfxtgdFtm0-lg_HhFMGJW5frtjHxNfy0CeVL.jpeg"
+        },
+        {
+          "time": "00:45",
+          "title": "Webhooks Use Case",
+          "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8&t=45",
+          "thumbnail": "https://serpapi.com/searches/6a552caa80c963678514a468/images/VXZswhzIOiJWyEldzJeHCLzqG6BX_3sOsLnh38Ubcmz2XX8pq4ltbr2zIo1_l1FK.jpeg"
+        },
+        {
+          "time": "01:01",
+          "title": "Building Your First Webhook",
+          "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8&t=61",
+          "thumbnail": "https://serpapi.com/searches/6a552caa80c963678514a468/images/VXZswhzIOiJWyEldzJeHCAHnhg2UtDRGEtYkYzalAVVvAIsy56F3HuWRLNLwFDqa.jpeg"
+        },
+        {
+          "time": "01:55",
+          "title": "Test URL vs. Production URL Explained",
+          "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8&t=115",
+          "thumbnail": "https://serpapi.com/searches/6a552caa80c963678514a468/images/VXZswhzIOiJWyEldzJeHCCh3VxBIYZcHY4QpxnssMYlzsuSz2rTRBu86LjpTzGrd.jpeg"
+        },
+        {
+          "time": "02:47",
+          "title": "HTTP Methods (GET vs. POST)",
+          "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8&t=167",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCi-ajCgzTMuXm5fa7FTo8uOvRKCxEq5rpDHM7fMgmg&s"
+        },
+        {
+          "time": "03:34",
+          "title": "Authentication & Response",
+          "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8&t=214",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe3LhiHP_mfQRmzIFAh3PN1jPqMfXikft58voRpiU12g&s"
+        },
+        {
+          "time": "06:17",
+          "title": "Connecting a Typeform to Your Webhook",
+          "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8&t=377",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmUudYY7-FHaTm5Twwpagx_KTaFqsJvSGL-pVjEi6G8g&s"
+        },
+        {
+          "time": "09:31",
+          "title": "Sending Form Data to Google Sheets",
+          "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8&t=571",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqaUGLx0s7rl7_fMr915PeoMcH47pWSDdZdW50dhqiTQ&s"
+        },
+        {
+          "time": "10:56",
+          "title": "Sending a Personalized Email",
+          "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8&t=656",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcLOW_JOcC5pCOp5XrBlkLgK7nqvVRPPSAtixDhKoHuQ&s"
+        },
+        {
+          "time": "13:52",
+          "title": "Webhooks in Make.com",
+          "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8&t=832",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6en3egzMFW1_tON4pa9HGJ7btMDVY325CyVAdjQyPew&s"
+        },
+        {
+          "time": "15:14",
+          "title": "Connect Workflows with an HTTP Request",
+          "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8&t=914",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQdYPWzH8Uv6eBYLB-Noz1YlwdP3wheBLGsheGsvWqA&s"
+        },
+        {
+          "time": "16:58",
+          "title": "Outro",
+          "link": "https://www.youtube.com/watch?v=XUcKjLc5_U8&t=1018",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYW9pucG_QpgwDrLZqYy8CN4KjlkyBbVudplwaDM-EA&s"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Step-by-Step: N8N Webhooks (From Beginner to Pro)",
+      "link": "https://www.youtube.com/watch?v=lK3veuZAg0c",
+      "thumbnail": "https://serpapi.com/searches/6a552caa80c963678514a468/images/oV8FC6fXsyzWEycaQWGY1WjSa-Mhl7W_0aMtEj15EzI.jpeg",
+      "channel": "Nick Saraev",
+      "duration": "34:43",
+      "platform": "YouTube",
+      "date": "Feb 22, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR0YWLGT1cwvlKRBtJZmpnO9PvFYqtxUfbM7A",
+      "key_moments": [
+        {
+          "time": "03:13",
+          "title": "Actions",
+          "link": "https://www.youtube.com/watch?v=lK3veuZAg0c&t=193",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxMjNpn_RQQEidiHtCZC02FJh-teHk4YkXnv7iNa3jg&s"
+        },
+        {
+          "time": "05:53",
+          "title": "Http Method Field",
+          "link": "https://www.youtube.com/watch?v=lK3veuZAg0c&t=353",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEh_eM52ngA-Io7YQS6JC585HSasG_1wDC4L0XIL9GOw&s"
+        },
+        {
+          "time": "11:15",
+          "title": "Output Objects",
+          "link": "https://www.youtube.com/watch?v=lK3veuZAg0c&t=675",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYl4dU84jY2n_1Mah9gnhNWrz9IFGiVHol_K8F42Upw&s"
+        },
+        {
+          "time": "14:06",
+          "title": "Query Parameters",
+          "link": "https://www.youtube.com/watch?v=lK3veuZAg0c&t=846",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrfOZbA3W-AIEt-k4WduONyIiCQWDrZYLsNVaB9dPsSA&s"
+        },
+        {
+          "time": "14:28",
+          "title": "Curl Request",
+          "link": "https://www.youtube.com/watch?v=lK3veuZAg0c&t=868",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUAs2cV8TcZRER9AptRzm1qvliL1TaGyuGu1t_x3a2FQ&s"
+        },
+        {
+          "time": "18:05",
+          "title": "Respond to Web Hook",
+          "link": "https://www.youtube.com/watch?v=lK3veuZAg0c&t=1085",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoug8TXKNvYUj2lLMegCWtpPQsMuSNepK7BQHbvSMRQ&s"
+        },
+        {
+          "time": "20:23",
+          "title": "First Incoming Item",
+          "link": "https://www.youtube.com/watch?v=lK3veuZAg0c&t=1223",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUqmRB6EDNdxjxhNaDxevckGEsdzK3W9Z-B8g9fJVaQQ&s"
+        },
+        {
+          "time": "20:54",
+          "title": "Json",
+          "link": "https://www.youtube.com/watch?v=lK3veuZAg0c&t=1254",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjKwNvezJuNitPgsLcpz1w3RSwUx0yOd9r-uAx3fCjZQ&s"
+        },
+        {
+          "time": "26:07",
+          "title": "Custom Html",
+          "link": "https://www.youtube.com/watch?v=lK3veuZAg0c&t=1567",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBLYYNijQrR03REd3sBVeENvaZeMzHA7ISWjDEKnXDA&s"
+        },
+        {
+          "time": "33:28",
+          "title": "Reverse Proxy",
+          "link": "https://www.youtube.com/watch?v=lK3veuZAg0c&t=2008",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6aNX-DuKkLjEDpV3aonuLaetoR-L9kMHBUR1YLXje-g&s"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "HTTP and Webhook in N8N For Beginners",
+      "link": "https://www.youtube.com/watch?v=Jrx9R3S_-DU",
+      "thumbnail": "https://serpapi.com/searches/6a552caa80c963678514a468/images/ZfYWuhQ9nvKCV1XRvgGe0oIlYDkZ828N0aRTQGMTWlM.jpeg",
+      "channel": "Automation Feed",
+      "duration": "15:53",
+      "platform": "YouTube",
+      "date": "Dec 16, 2025"
+    },
+    {
+      "position": 4,
+      "title": "Using webhooks in n8n (parameters, responses and triggers)",
+      "link": "https://www.youtube.com/watch?v=IvUYJQkf6sA",
+      "thumbnail": "https://serpapi.com/searches/6a552caa80c963678514a468/images/s2-PMnyZ9jp0qNpGIdi8DUdUnlvF6JiU6RxocQU03Y4.jpeg",
+      "channel": "Oskar",
+      "duration": "5:59",
+      "platform": "YouTube",
+      "date": "May 27, 2023",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ3XG09MFXkG3BnsnWDRDp8sanqMKwI9PTIXA",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Part 1: Webhook types",
+          "link": "https://www.youtube.com/watch?v=IvUYJQkf6sA&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSluVKTTtT8JcDzqNJy8Gv1UCpi3FthybTJYl11IYEbqw&s"
+        },
+        {
+          "time": "00:28",
+          "title": "Part 2: Parameters",
+          "link": "https://www.youtube.com/watch?v=IvUYJQkf6sA&t=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKw-ZTheo9njxJQTxKC8N2jSZ_Vg2n2ZASV7mcX0W8OQ&s"
+        },
+        {
+          "time": "01:02",
+          "title": "Part 3: Redirect to URL",
+          "link": "https://www.youtube.com/watch?v=IvUYJQkf6sA&t=62",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDV8Y_0fg9UTFTH6rMDScxpYA-BJ61HofZR9pA3x4oPQ&s"
+        },
+        {
+          "time": "03:28",
+          "title": "Part 4: Redirect to HTML",
+          "link": "https://www.youtube.com/watch?v=IvUYJQkf6sA&t=208",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-3YeqL0ro3lSocFo-u3AH-BLqUyABoYLeTSEe1oHhg&s"
+        },
+        {
+          "time": "04:31",
+          "title": "Part 5: Trigger another workflow",
+          "link": "https://www.youtube.com/watch?v=IvUYJQkf6sA&t=271",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4NBuT1g3-U5rezhWVVZRXwM8907TUQjC9humSNdkEbA&s"
+        },
+        {
+          "time": "05:40",
+          "title": "Ending",
+          "link": "https://www.youtube.com/watch?v=IvUYJQkf6sA&t=340",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo5kkCi-E4MHK0uU5vHuQrCfeDCn8uaLyuO35cQn3QZw&s"
+        }
+      ]
+    }
+  ],
+  "ai_overview": {
+    "page_token": "TSkxt3icxVZdc7I4FL7f_7HeWAWVqnSGeScgCn5Tq63eOBggIAJqaIHevf9lf9X-lr3YAAXFarvvzuxsLkJycnLyJOc8Pv78Y2e59p-__WX6_h4_UFQQBFXkeWinV6HnUCqOXEgZ3g4fofkjeuMaJYg5uqRb3MEKFyo20HRY6TgsnEbtimcr81KyhVtvVKxvScRwi6k1RTr790aHTKq4qrtVVhlrFf3w3g_lap2usdUJpTrEAfy3DQEr7hCQyUT-tCwApHwdQImdwAzwJ5OYbz61ZTpDiE89ztyL5yUYZCDzcZhpa2SAETHQyar0FRARFabdZKrE7ycqJNS1A9EVWwZaQJdXuOl61tJTlPwJmHzl1jPK8jk0IQYlGHFC8mx8oBTObyDG5lEylGQw5ZtACZTuV1g90OmhmYKuZfm8zfienh2JO3PiTWmI1CFNbY7kU6MsaMJkcMRxeQpPLO315gtp9SKJ9pu0Chetph5V1sGqT4_etoiCG-K381RN19bmmv6RzGv12j3NNlrtu4QXEOfEwOfEWNsDMI8PuRerwypfO2NFivHiMrHx8eozZxm4suEjAShNWpQtedmA9xSy-bSx25H5AICMmkxSa-hzNSjCNVYkLXfuxZ2V3oUXTmgK3qRI8kDnCwwoNvRp3AO8CILsHulpeaDiGRZ4lPP4yyJWJMjzJKZgfwAZdcLiUypiYUccSEE8D_IbJfdIPHPcQmoiRbkEyorM-wjlP0bpMygffuYFgeQL7vJLEsO-Tunv2uCfOIlZ_V-U8zkNus_igbWf6i9orIeRtgqZfqu_90fLBgyul73nbH5BEOD_ToxELrxMLq4Qw_yGGIlcKLfl4sN5mREj8esKZo6mSKOUGJ_kop2snuTiCjFEs0CML-QiJwYC3xFD-IoYwi1iELn4RAzlBjEyuTgjxqwgF_KFXJyI8etyof47uUhooqefona8btFNDRH7hsr2ptIkkujtI99iDBDqE4l_XFSCbzXEcPwHR9V2d2tLe-DrfT_S7tbE4D3oWunAuW23HOgb0_NsXIav2PecsvT0NC0fdbz3XKyXoecaFno9qr7luWX0amk6-R-o45KzO3ocrTLPOlTZl9mR9Sevy0YA59Ol3JlOhPd7JrRpPPUGjSeoCXubkbTZbouDzVAcbIaB7o60xXu00pqa0-vAiB2-C0FfHq8OE3SQtCFCvtY0jZHpjvv-87hT6XThYrGJxCZa2OOBOWVDvHpnK_vFUrLrQHyh9-tB1AoSYJiTvJoRjp6ZpiSWnCPkSEUwCIwV8IwABAIpHyIqCkmnIgSkqEoYqmsdv3F1HTJGG6oa22zd0w215CA_2nPtEnaPXO1vNpwjzw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TSkxt3icxVZdc7I4FL7f_7HeWAWVqnSGeScgCn5Tq63eOBggIAJqaIHevf9lf9X-lr3YAAXFarvvzuxsLkJycnLyJOc8Pv78Y2e59p-__WX6_h4_UFQQBFXkeWinV6HnUCqOXEgZ3g4fofkjeuMaJYg5uqRb3MEKFyo20HRY6TgsnEbtimcr81KyhVtvVKxvScRwi6k1RTr790aHTKq4qrtVVhlrFf3w3g_lap2usdUJpTrEAfy3DQEr7hCQyUT-tCwApHwdQImdwAzwJ5OYbz61ZTpDiE89ztyL5yUYZCDzcZhpa2SAETHQyar0FRARFabdZKrE7ycqJNS1A9EVWwZaQJdXuOl61tJTlPwJmHzl1jPK8jk0IQYlGHFC8mx8oBTObyDG5lEylGQw5ZtACZTuV1g90OmhmYKuZfm8zfienh2JO3PiTWmI1CFNbY7kU6MsaMJkcMRxeQpPLO315gtp9SKJ9pu0Chetph5V1sGqT4_etoiCG-K381RN19bmmv6RzGv12j3NNlrtu4QXEOfEwOfEWNsDMI8PuRerwypfO2NFivHiMrHx8eozZxm4suEjAShNWpQtedmA9xSy-bSx25H5AICMmkxSa-hzNSjCNVYkLXfuxZ2V3oUXTmgK3qRI8kDnCwwoNvRp3AO8CILsHulpeaDiGRZ4lPP4yyJWJMjzJKZgfwAZdcLiUypiYUccSEE8D_IbJfdIPHPcQmoiRbkEyorM-wjlP0bpMygffuYFgeQL7vJLEsO-Tunv2uCfOIlZ_V-U8zkNus_igbWf6i9orIeRtgqZfqu_90fLBgyul73nbH5BEOD_ToxELrxMLq4Qw_yGGIlcKLfl4sN5mREj8esKZo6mSKOUGJ_kop2snuTiCjFEs0CML-QiJwYC3xFD-IoYwi1iELn4RAzlBjEyuTgjxqwgF_KFXJyI8etyof47uUhooqefona8btFNDRH7hsr2ptIkkujtI99iDBDqE4l_XFSCbzXEcPwHR9V2d2tLe-DrfT_S7tbE4D3oWunAuW23HOgb0_NsXIav2PecsvT0NC0fdbz3XKyXoecaFno9qr7luWX0amk6-R-o45KzO3ocrTLPOlTZl9mR9Sevy0YA59Ol3JlOhPd7JrRpPPUGjSeoCXubkbTZbouDzVAcbIaB7o60xXu00pqa0-vAiB2-C0FfHq8OE3SQtCFCvtY0jZHpjvv-87hT6XThYrGJxCZa2OOBOWVDvHpnK_vFUrLrQHyh9-tB1AoSYJiTvJoRjp6ZpiSWnCPkSEUwCIwV8IwABAIpHyIqCkmnIgSkqEoYqmsdv3F1HTJGG6oa22zd0w215CA_2nPtEnaPXO1vNpwjzw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Webhook | Nodes",
+      "link": "https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.webhook",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.webhook&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQFnoECBkQAQ",
+      "displayed_link": "https://docs.n8n.io › builtin › n8n-nodes-base.webhook",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAKlBMVEVHcEzoS3LpS3HoSnHrTHPqTXTrS3HqS3HqS3LrS3HrS3HpS3HnTXTqTHI7Q3LLAAAADnRSTlMAN7bGTx7_15Lq76URbUIO-dIAAAB8SURBVHgBYxgIIGSCzGNNV3OAcziMLScwFcC5y3ZvX8BswMDgvIeB14KBMYeBJ6tMgIE3eRqDmloBRwIDw4mNDAycDWxFKazJZhfAWpgYDJBNBypexrANrPgSWIET1Cj25AwkVdPUAq4hcTnKDrghG8KZnY1iaPMFOgYXABlDG1WypElOAAAAAElFTkSuQmCC.png",
+      "date": "Jul 2, 2026",
+      "snippet": "Response Code Customize the HTTP response code that the Webhook node returns upon successful execution. Select from common response codes or ...",
+      "snippet_highlighted_words": [
+        "Customize the HTTP response code"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Response Code Customize the HTTP response code that the Webhook node returns upon successful execution. Select from common response codes or ...",
+          "source_info_link": "https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.webhook",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAKlBMVEVHcEzoS3LpS3HoSnHrTHPqTXTrS3HqS3HqS3LrS3HrS3HpS3HnTXTqTHI7Q3LLAAAADnRSTlMAN7bGTx7_15Lq76URbUIO-dIAAAB8SURBVHgBYxgIIGSCzGNNV3OAcziMLScwFcC5y3ZvX8BswMDgvIeB14KBMYeBJ6tMgIE3eRqDmloBRwIDw4mNDAycDWxFKazJZhfAWpgYDJBNBypexrANrPgSWIET1Cj25AwkVdPUAq4hcTnKDrghG8KZnY1iaPMFOgYXABlDG1WypElOAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.webhook&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdocs.n8n.io%2Fintegrations%2Fbuiltin%2Fcore-nodes%2Fn8n-nodes-base.webhook",
+      "source": "n8n Docs"
+    },
+    {
+      "position": 2,
+      "title": "How can I change webhook response? - Questions",
+      "link": "https://community.n8n.io/t/how-can-i-change-webhook-response/1010?tl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.n8n.io/t/how-can-i-change-webhook-response/1010%3Ftl%3Den&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQFnoECBcQAQ",
+      "displayed_link": "https://community.n8n.io › how-can-i-change-webhook-...",
+      "date": "Mar 16, 2020",
+      "snippet": "My Question is that: Are there any way to customize webhook message page? For example can I use html code to design it or can I redirect my users to another ...",
+      "snippet_highlighted_words": [
+        "customize webhook"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "My Question is that: Are there any way to customize webhook message page? For example can I use html code to design it or can I redirect my users to another ...",
+          "source_info_link": "https://community.n8n.io/t/how-can-i-change-webhook-response/1010?tl=en"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://community.n8n.io/t/how-can-i-change-webhook-response/1010?tl=en&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcommunity.n8n.io%2Ft%2Fhow-can-i-change-webhook-response%2F1010%3Ftl%3Den",
+      "source": "n8n Community",
+      "read_more_link": "https://community.n8n.io/t/how-can-i-change-webhook-response/1010?tl=en#:~:text=My%20Question%20is%20that%3A,page%20with%20this%20address%3A%20%E2%80%9Chttp%3A%2F%2Fmysite.com%2Fcallback%E2%80%9D"
+    },
+    {
+      "position": 3,
+      "title": "n8n Webhooks: A Beginner's Guide (with Security Built-In)",
+      "link": "https://blog.nocodecreative.io/n8n-webhooks-a-beginners-guide-with-security-built-in/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.nocodecreative.io/n8n-webhooks-a-beginners-guide-with-security-built-in/&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQFnoECB0QAQ",
+      "displayed_link": "https://blog.nocodecreative.io › n8n-webhooks-a-begin...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEX____p4f_Jtv_ZzP_KuP91L_9_RP97Pf-ph_-FT_9-Qv-ETf-AR_-BSf-sjP-KV_-MW_--p_-PX_-cdP_08P96Of_cz_-iff_s5v-qiv-RZP_Pvv_8-__j2v_azf__VGWbAAAAmUlEQVR4AcXRxQHEMBADQMW83jBz_10e88X5RmbPUzgskXhFAkqI6MO0ecY6gLzRbxWGiDjmy56kQMZkxAvVBTkvSn6j-kIPIOFt5AyAtDuIKtnBugliCxQ2hF0PcAiHEWi7AKbNBIgQJn4GgpgMO0jNEsbbMXvaRkrGIuMvFG98NGfEZ9meAGfNIx9lX1SoCViFekRc7KCcAensC5cc4GMuAAAAAElFTkSuQmCC.png",
+      "date": "Dec 9, 2025",
+      "snippet": "In this guide, we'll cover what they are, how to test vs. run in production, the main HTTP methods (GET/POST/PATCH/DELETE/PUT/HEAD), returning ...",
+      "snippet_highlighted_words": [
+        "guide",
+        "HTTP"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this guide, we'll cover what they are, how to test vs. run in production, the main HTTP methods (GET/POST/PATCH/DELETE/PUT/HEAD), returning  ...",
+          "source_info_link": "https://blog.nocodecreative.io/n8n-webhooks-a-beginners-guide-with-security-built-in/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEX____p4f_Jtv_ZzP_KuP91L_9_RP97Pf-ph_-FT_9-Qv-ETf-AR_-BSf-sjP-KV_-MW_--p_-PX_-cdP_08P96Of_cz_-iff_s5v-qiv-RZP_Pvv_8-__j2v_azf__VGWbAAAAmUlEQVR4AcXRxQHEMBADQMW83jBz_10e88X5RmbPUzgskXhFAkqI6MO0ecY6gLzRbxWGiDjmy56kQMZkxAvVBTkvSn6j-kIPIOFt5AyAtDuIKtnBugliCxQ2hF0PcAiHEWi7AKbNBIgQJn4GgpgMO0jNEsbbMXvaRkrGIuMvFG98NGfEZ9meAGfNIx9lX1SoCViFekRc7KCcAensC5cc4GMuAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://blog.nocodecreative.io/n8n-webhooks-a-beginners-guide-with-security-built-in/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fblog.nocodecreative.io%2Fn8n-webhooks-a-beginners-guide-with-security-built-in%2F",
+      "source": "nocodecreative.io"
+    },
+    {
+      "position": 4,
+      "title": "Creating custom n8n webhook node - Questions",
+      "link": "https://community.n8n.io/t/creating-custom-n8n-webhook-node/140929?tl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.n8n.io/t/creating-custom-n8n-webhook-node/140929%3Ftl%3Den&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQFnoECBYQAQ",
+      "displayed_link": "https://community.n8n.io › creating-custom-n8n-webhoo...",
+      "date": "Jun 30, 2025",
+      "snippet": "I'm building a custom trigger node that connects to a remote server using a webhook mechanism. What I want to achieve:",
+      "snippet_highlighted_words": [
+        "custom",
+        "webhook"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I'm building a custom trigger node that connects to a remote server using a webhook mechanism. What I want to achieve:",
+          "source_info_link": "https://community.n8n.io/t/creating-custom-n8n-webhook-node/140929?tl=en"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://community.n8n.io/t/creating-custom-n8n-webhook-node/140929?tl=en&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcommunity.n8n.io%2Ft%2Fcreating-custom-n8n-webhook-node%2F140929%3Ftl%3Den",
+      "source": "n8n Community",
+      "read_more_link": "https://community.n8n.io/t/creating-custom-n8n-webhook-node/140929?tl=en#:~:text=I'm%20building%20a%20custom%20trigger,server%20using%20a%20webhook%20mechanism.&text=What%20I%20want%20to%20achieve%3A"
+    },
+    {
+      "position": 5,
+      "title": "Building Custom Webhooks for Real-Time Business ...",
+      "link": "https://serenichron.com/articles/build-custom-webhooks-real-time-business-automation-n8n/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://serenichron.com/articles/build-custom-webhooks-real-time-business-automation-n8n/&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQFnoECBoQAQ",
+      "displayed_link": "https://serenichron.com › Blog",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEX3mUtHcEzafz7afz3afz7afz3afz3afz7afz3afz3afj3bfz3afz5AI7z_AAAADXRSTlMBAPy365ksfWEYRQzTHOGb-QAAAShJREFUKJFtklmCxCAIRNlB5f7nHSRLpzvDV-JTKAoAzsAKJeL9AT-BMCyYKD1s_WAcoUJCJEKpcz0ooqkIe6REOIv4wA-bSTwHoDLisqg_u-hmx91QrKsw9KZoTNEa0SZ2pqWkfXt_-alvXUr22eqkkmFw4DMXQuR-Wg8lpvqFG1loi0DLtCrLYYgn8uToApVVVzfKMUrWmrr7OgoobzmIJV94NtpKjxLbMvYybDjVcdkrcbt3Q8QQiuU8P74ri7cty1zIIx6sBJF3dXMuyZHxnJcJt1NjBwx_Qhwsp6M7wOwJIUhveb8bUu7ILWK99meKHNbBMbKvp8sp23fcw_6PRm1JNf2qWqWq_xqLpYw3RJi1mVmev4p2k2PWTlJN6A17yLU4pM-if3txCEiP0omWAAAAAElFTkSuQmCC.png",
+      "date": "Apr 7, 2026",
+      "snippet": "This guide covers building custom webhook endpoints in n8n, securing them with HMAC signature validation and replay attack prevention, designing ...",
+      "snippet_highlighted_words": [
+        "building custom webhook endpoints in n8n"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This guide covers building custom webhook endpoints in n8n, securing them with HMAC signature validation and replay attack prevention, designing ...",
+          "source_info_link": "https://serenichron.com/articles/build-custom-webhooks-real-time-business-automation-n8n/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEX3mUtHcEzafz7afz3afz7afz3afz3afz7afz3afz3afj3bfz3afz5AI7z_AAAADXRSTlMBAPy365ksfWEYRQzTHOGb-QAAAShJREFUKJFtklmCxCAIRNlB5f7nHSRLpzvDV-JTKAoAzsAKJeL9AT-BMCyYKD1s_WAcoUJCJEKpcz0ooqkIe6REOIv4wA-bSTwHoDLisqg_u-hmx91QrKsw9KZoTNEa0SZ2pqWkfXt_-alvXUr22eqkkmFw4DMXQuR-Wg8lpvqFG1loi0DLtCrLYYgn8uToApVVVzfKMUrWmrr7OgoobzmIJV94NtpKjxLbMvYybDjVcdkrcbt3Q8QQiuU8P74ri7cty1zIIx6sBJF3dXMuyZHxnJcJt1NjBwx_Qhwsp6M7wOwJIUhveb8bUu7ILWK99meKHNbBMbKvp8sp23fcw_6PRm1JNf2qWqWq_xqLpYw3RJi1mVmev4p2k2PWTlJN6A17yLU4pM-if3txCEiP0omWAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://serenichron.com/articles/build-custom-webhooks-real-time-business-automation-n8n/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fserenichron.com%2Farticles%2Fbuild-custom-webhooks-real-time-business-automation-n8n%2F",
+      "source": "Serenichron",
+      "read_more_link": "https://serenichron.com/articles/build-custom-webhooks-real-time-business-automation-n8n/#:~:text=This%20guide%20covers%20building%20custom,latency%20with%20instant%20event%2Ddriven%20automation."
+    },
+    {
+      "position": 6,
+      "title": "My notes on creating a Webhook in n8n",
+      "link": "https://medium.com/@balci.pelin/n8n-webhook-ec9de8e4200c",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/%40balci.pelin/n8n-webhook-ec9de8e4200c&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQFnoECBsQAQ",
+      "displayed_link": "40+ likes · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwAAAAAAAAAAAAAAAAAAAB2dnanp6fW1tb___-JiYmzs7Pm5uaUlJS5ubm_v79XV1fMzMwuLi5GRkZgYGAWFhbz8_NaZDsbAAAABnRSTlMATcb6_504Ks4-AAAA00lEQVR4AX3TCw6DIBAEUNQpP_Gv3P-oHbJKpA1MErPwXAgRlVJdP-AvQ98p5oNKPuxDNZ3q69iroY6DQiOC2jAA8kC_ENY55yFhafHGkTNByonlWOC8cGpFShh_cVmJm-x4o7bbg_tG3VMj5oR86tx5pFYDHFZQuwBkRKCyOAWDM2_0RI8AJLx4HDNmBIjBT4JHehEZ5awRGU2BO9EgLxsLBE9z3YjIYxd4cvygT3vcaDWYeEIWsHxS8yfbU6vUjAa0DQqNNK9J84I1r2b7Urd-hy8WUBIcmpFBTAAAAABJRU5ErkJggg.png",
+      "snippet": "In this post, I will explain how to set up webhooks and share a few useful tips. Add a Respond to Webhook node. The easiest way is to create ...",
+      "snippet_highlighted_words": [
+        "webhooks",
+        "Respond",
+        "Webhook"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this post, I will explain how to set up webhooks and share a few useful tips. Add a Respond to Webhook node. The easiest way is to create ...",
+          "source_info_link": "https://medium.com/@balci.pelin/n8n-webhook-ec9de8e4200c",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwAAAAAAAAAAAAAAAAAAAB2dnanp6fW1tb___-JiYmzs7Pm5uaUlJS5ubm_v79XV1fMzMwuLi5GRkZgYGAWFhbz8_NaZDsbAAAABnRSTlMATcb6_504Ks4-AAAA00lEQVR4AX3TCw6DIBAEUNQpP_Gv3P-oHbJKpA1MErPwXAgRlVJdP-AvQ98p5oNKPuxDNZ3q69iroY6DQiOC2jAA8kC_ENY55yFhafHGkTNByonlWOC8cGpFShh_cVmJm-x4o7bbg_tG3VMj5oR86tx5pFYDHFZQuwBkRKCyOAWDM2_0RI8AJLx4HDNmBIjBT4JHehEZ5awRGU2BO9EgLxsLBE9z3YjIYxd4cvygT3vcaDWYeEIWsHxS8yfbU6vUjAa0DQqNNK9J84I1r2b7Urd-hy8WUBIcmpFBTAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://medium.com/@balci.pelin/n8n-webhook-ec9de8e4200c&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmedium.com%2F%40balci.pelin%2Fn8n-webhook-ec9de8e4200c",
+      "source": "Medium · Pelin Balci"
+    },
+    {
+      "position": 7,
+      "title": "Respond to Webhook - Help : r/n8n",
+      "link": "https://www.reddit.com/r/n8n/comments/1o3n0wn/respond_to_webhook_help/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/n8n/comments/1o3n0wn/respond_to_webhook_help/&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQFnoECBwQAQ",
+      "displayed_link": "4 comments · 9 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "I am confused as to why I am trying to specify a custom JSON response for the \"Respond to Webhook\" node but the output is still the original.",
+      "snippet_highlighted_words": [
+        "custom",
+        "response",
+        "Respond",
+        "Webhook"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I am confused as to why I am trying to specify a custom JSON response for the \"Respond to Webhook\" node but the output is still the original.",
+          "source_info_link": "https://www.reddit.com/r/n8n/comments/1o3n0wn/respond_to_webhook_help/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/n8n/comments/1o3n0wn/respond_to_webhook_help/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fn8n%2Fcomments%2F1o3n0wn%2Frespond_to_webhook_help%2F",
+      "source": "Reddit · r/n8n",
+      "read_more_link": "https://www.reddit.com/r/n8n/comments/1o3n0wn/respond_to_webhook_help/#:~:text=I%20am%20confused%20as%20to,output%20is%20still%20the%20original."
+    },
+    {
+      "position": 8,
+      "title": "Multiple Webhooks response for the same Webhook Triger",
+      "link": "https://community.n8n.io/t/multiple-webhooks-response-for-the-same-webhook-triger/82022?tl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.n8n.io/t/multiple-webhooks-response-for-the-same-webhook-triger/82022%3Ftl%3Den&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQFnoECBgQAQ",
+      "displayed_link": "https://community.n8n.io › multiple-webhooks-response-...",
+      "date": "Feb 26, 2025",
+      "snippet": "What would be the recommended approach for configuring this in n8n's webhook settings? How should I structure the UI server side to handle ...",
+      "snippet_highlighted_words": [
+        "configuring",
+        "n8n's webhook settings"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What would be the recommended approach for configuring this in n8n's webhook settings? How should I structure the UI server side to handle ...",
+          "source_info_link": "https://community.n8n.io/t/multiple-webhooks-response-for-the-same-webhook-triger/82022?tl=en"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://community.n8n.io/t/multiple-webhooks-response-for-the-same-webhook-triger/82022?tl=en&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcommunity.n8n.io%2Ft%2Fmultiple-webhooks-response-for-the-same-webhook-triger%2F82022%3Ftl%3Den",
+      "source": "n8n Community",
+      "read_more_link": "https://community.n8n.io/t/multiple-webhooks-response-for-the-same-webhook-triger/82022?tl=en#:~:text=What%20would%20be%20the%20recommended,to%20handle%20these%20separate%20responses%3F"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "N8n webhooks custom http response configuration guidelines example",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=N8n+webhooks+custom+http+response+configuration+guidelines+example&sa=X&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=N8n+webhooks+custom+http+response+configuration+guidelines+example"
+    },
+    {
+      "block_position": 1,
+      "query": "N8n webhooks custom http response configuration guidelines github",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=N8n+webhooks+custom+http+response+configuration+guidelines+github&sa=X&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=N8n+webhooks+custom+http+response+configuration+guidelines+github"
+    },
+    {
+      "block_position": 1,
+      "query": "N8n webhook URL",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=N8n+webhook+URL&sa=X&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=N8n+webhook+URL"
+    },
+    {
+      "block_position": 1,
+      "query": "N8n webhook tutorial",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=N8n+webhook+tutorial&sa=X&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=N8n+webhook+tutorial"
+    },
+    {
+      "block_position": 1,
+      "query": "Respond to webhook n8n",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=Respond+to+webhook+n8n&sa=X&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Respond+to+webhook+n8n"
+    },
+    {
+      "block_position": 1,
+      "query": "N8n authentication Webhook",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=N8n+authentication+Webhook&sa=X&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=N8n+authentication+Webhook"
+    },
+    {
+      "block_position": 1,
+      "query": "N8n webhook path parameter",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=N8n+webhook+path+parameter&sa=X&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=N8n+webhook+path+parameter"
+    },
+    {
+      "block_position": 1,
+      "query": "N8n respond to webhook not working",
+      "link": "https://www.google.com/search?sca_esv=2ec4f8cad967503a&q=N8n+respond+to+webhook+not+working&sa=X&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=N8n+respond+to+webhook+not+working"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&sca_esv=2ec4f8cad967503a&ei=qixVasfgPL-Dm9cPy8-okQU&start=10&sa=N&sstk=AU9db-AGIEW1BqfSnQnfkzy3W7yV2oYj6WFQDXUib7YWY4L4HJLEXPKsny8oXjflxtK4RIHkugE-3Kaz2iWnA9hc8USpzlTNOocJWQ&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ8NMDegQIMRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&sca_esv=2ec4f8cad967503a&ei=qixVasfgPL-Dm9cPy8-okQU&start=10&sa=N&sstk=AU9db-AGIEW1BqfSnQnfkzy3W7yV2oYj6WFQDXUib7YWY4L4HJLEXPKsny8oXjflxtK4RIHkugE-3Kaz2iWnA9hc8USpzlTNOocJWQ&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ8tMDegQIMRAE",
+      "3": "https://www.google.com/search?q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&sca_esv=2ec4f8cad967503a&ei=qixVasfgPL-Dm9cPy8-okQU&start=20&sa=N&sstk=AU9db-AGIEW1BqfSnQnfkzy3W7yV2oYj6WFQDXUib7YWY4L4HJLEXPKsny8oXjflxtK4RIHkugE-3Kaz2iWnA9hc8USpzlTNOocJWQ&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ8tMDegQIMRAG",
+      "4": "https://www.google.com/search?q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&sca_esv=2ec4f8cad967503a&ei=qixVasfgPL-Dm9cPy8-okQU&start=30&sa=N&sstk=AU9db-AGIEW1BqfSnQnfkzy3W7yV2oYj6WFQDXUib7YWY4L4HJLEXPKsny8oXjflxtK4RIHkugE-3Kaz2iWnA9hc8USpzlTNOocJWQ&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ8tMDegQIMRAI",
+      "5": "https://www.google.com/search?q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&sca_esv=2ec4f8cad967503a&ei=qixVasfgPL-Dm9cPy8-okQU&start=40&sa=N&sstk=AU9db-AGIEW1BqfSnQnfkzy3W7yV2oYj6WFQDXUib7YWY4L4HJLEXPKsny8oXjflxtK4RIHkugE-3Kaz2iWnA9hc8USpzlTNOocJWQ&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ8tMDegQIMRAK",
+      "6": "https://www.google.com/search?q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&sca_esv=2ec4f8cad967503a&ei=qixVasfgPL-Dm9cPy8-okQU&start=50&sa=N&sstk=AU9db-AGIEW1BqfSnQnfkzy3W7yV2oYj6WFQDXUib7YWY4L4HJLEXPKsny8oXjflxtK4RIHkugE-3Kaz2iWnA9hc8USpzlTNOocJWQ&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ8tMDegQIMRAM",
+      "7": "https://www.google.com/search?q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&sca_esv=2ec4f8cad967503a&ei=qixVasfgPL-Dm9cPy8-okQU&start=60&sa=N&sstk=AU9db-AGIEW1BqfSnQnfkzy3W7yV2oYj6WFQDXUib7YWY4L4HJLEXPKsny8oXjflxtK4RIHkugE-3Kaz2iWnA9hc8USpzlTNOocJWQ&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ8tMDegQIMRAO",
+      "8": "https://www.google.com/search?q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&sca_esv=2ec4f8cad967503a&ei=qixVasfgPL-Dm9cPy8-okQU&start=70&sa=N&sstk=AU9db-AGIEW1BqfSnQnfkzy3W7yV2oYj6WFQDXUib7YWY4L4HJLEXPKsny8oXjflxtK4RIHkugE-3Kaz2iWnA9hc8USpzlTNOocJWQ&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ8tMDegQIMRAQ",
+      "9": "https://www.google.com/search?q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&sca_esv=2ec4f8cad967503a&ei=qixVasfgPL-Dm9cPy8-okQU&start=80&sa=N&sstk=AU9db-AGIEW1BqfSnQnfkzy3W7yV2oYj6WFQDXUib7YWY4L4HJLEXPKsny8oXjflxtK4RIHkugE-3Kaz2iWnA9hc8USpzlTNOocJWQ&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ8tMDegQIMRAS",
+      "10": "https://www.google.com/search?q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&sca_esv=2ec4f8cad967503a&ei=qixVasfgPL-Dm9cPy8-okQU&start=90&sa=N&sstk=AU9db-AGIEW1BqfSnQnfkzy3W7yV2oYj6WFQDXUib7YWY4L4HJLEXPKsny8oXjflxtK4RIHkugE-3Kaz2iWnA9hc8USpzlTNOocJWQ&ved=2ahUKEwjH3dDGotCVAxW_weYEHcsnKlIQ8tMDegQIMRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&start=90"
+    }
+  }
+}
