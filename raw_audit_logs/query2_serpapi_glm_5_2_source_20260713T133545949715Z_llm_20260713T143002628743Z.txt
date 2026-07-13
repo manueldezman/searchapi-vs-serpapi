@@ -1,0 +1,5 @@
+Based on the provided context, the following guidelines apply for configuring custom HTTP responses in n8n webhooks:
+
+* **Response Code Customization**: You can customize the HTTP response code that the Webhook node returns upon successful execution. You can select from common response codes to define your custom response (Source: https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.webhook).
+* **Returning Responses**: General guidelines for webhook configurations, including returning responses and utilizing HTTP methods (GET/POST/PATCH/DELETE/PUT/HEAD), are covered in beginner webhook guides (Source: https://blog.nocodecreative.io/n8n-webhooks-a-beginners-guide-with-security-built-in/).
+* **Custom Trigger Nodes**: If you are building a custom trigger node that connects to a remote server using a webhook mechanism, you can explore specific community discussions regarding custom webhook node creation (Source: https://community.n8n.io/t/creating-custom-n8n-webhook-node/140929?tl=en).

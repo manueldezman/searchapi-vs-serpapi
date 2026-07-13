@@ -1,0 +1,5 @@
+Based on the provided context, you can find open source examples and resources for Model Context Protocol (MCP) Python servers at the following links:
+
+*   **MCP Python SDK**: The Model Context Protocol allows you to build servers that expose data and functionality to LLM applications in a secure, standardized way. You can find the Python SDK for building these servers at https://github.com/modelcontextprotocol/python-sdk.
+*   **FastMCP Server Example**: A lesson is available that introduces the Model Context Protocol and guides you through setting up and running a basic MCP server in Python using the `FastMCP` class. You can access this at https://codesignal.com/learn/courses/developing-and-integrating-a-mcp-server-in-python/lessons/getting-started-with-fastmcp-running-your-first-mcp-server-with-stdio-and-sse.
+*   **MCP Client Tutorial**: A tutorial is available that teaches you how to build an LLM-powered chatbot client that connects to MCP servers, supporting both Python and Node.js servers. This can be found at https://modelcontextprotocol.io/docs/develop/build-client.

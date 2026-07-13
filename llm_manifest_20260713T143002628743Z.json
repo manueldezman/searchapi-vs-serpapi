@@ -1,0 +1,53 @@
+{
+  "phase": "llm",
+  "llm_run_id": "20260713T143002628743Z",
+  "source_search_run_id": "20260713T133545949715Z",
+  "source_search_manifest": "benchmark_manifest_20260713T133545949715Z.json",
+  "started_at_utc": "2026-07-13T14:57:49.715762+00:00",
+  "completed_at_utc": "2026-07-13T15:13:46.506022+00:00",
+  "resumed_existing_evaluations": 3,
+  "queries": [
+    "Model Context Protocol MCP python servers open source examples",
+    "n8n webhooks custom HTTP response configuration guidelines"
+  ],
+  "nvidia": {
+    "base_url": "https://integrate.api.nvidia.com/v1",
+    "models": [
+      "deepseek-ai/deepseek-v4-pro",
+      "z-ai/glm-5.2"
+    ],
+    "settings": {
+      "temperature": 0,
+      "max_tokens": 512,
+      "stream": false
+    },
+    "connect_timeout_seconds": 30.0,
+    "read_timeout_seconds": 300.0,
+    "retry_policy": "one retry for transient failures",
+    "outcomes": {
+      "successful": 6,
+      "failed_or_skipped": 2
+    }
+  },
+  "runtime": {
+    "python": "3.12.3",
+    "platform": "Linux-6.8.0-134-generic-x86_64-with-glibc2.39",
+    "packages": {
+      "httpx": "0.28.1",
+      "openai": "2.45.0",
+      "pandas": "3.0.3",
+      "rich": "14.3.4"
+    }
+  },
+  "artifacts": [
+    "llm_manifest_20260713T143002628743Z.json",
+    "raw_audit_logs/query1_searchapi_deepseek_v4_pro_source_20260713T133545949715Z_llm_20260713T143002628743Z.txt",
+    "raw_audit_logs/query1_searchapi_glm_5_2_source_20260713T133545949715Z_llm_20260713T143002628743Z.txt",
+    "raw_audit_logs/query1_serpapi_deepseek_v4_pro_source_20260713T133545949715Z_llm_20260713T143002628743Z.txt",
+    "raw_audit_logs/query1_serpapi_glm_5_2_source_20260713T133545949715Z_llm_20260713T143002628743Z.txt",
+    "raw_audit_logs/query2_searchapi_deepseek_v4_pro_source_20260713T133545949715Z_llm_20260713T143002628743Z.txt",
+    "raw_audit_logs/query2_searchapi_glm_5_2_source_20260713T133545949715Z_llm_20260713T143002628743Z.txt",
+    "raw_audit_logs/query2_serpapi_deepseek_v4_pro_source_20260713T133545949715Z_llm_20260713T143002628743Z.txt",
+    "raw_audit_logs/query2_serpapi_glm_5_2_source_20260713T133545949715Z_llm_20260713T143002628743Z.txt"
+  ]
+}

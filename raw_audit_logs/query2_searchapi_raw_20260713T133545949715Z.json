@@ -1,0 +1,28 @@
+{
+  "search_metadata": {
+    "id": "search_6dAL2p4KqYsDKnVLbk7wnGOm",
+    "status": "Success",
+    "created_at": "2026-07-13T13:36:08Z",
+    "request_time_taken": 4.48,
+    "parsing_time_taken": 0.0,
+    "total_time_taken": 4.48,
+    "request_url": "https://www.google.com/search?q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&oq=n8n+webhooks+custom+HTTP+response+configuration+guidelines&gl=us&hl=en",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_6dAL2p4KqYsDKnVLbk7wnGOm.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_6dAL2p4KqYsDKnVLbk7wnGOm"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "n8n webhooks custom HTTP response configuration guidelines",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "n8n webhooks custom HTTP response configuration guidelines",
+    "has_no_results_for": false
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=n8n+webhooks+custom+HTTP+response+configuration+guidelines&oq=n8n+webhooks+custom+HTTP+response+configuration+guidelines&gl=us&hl=en&pws=0&start=10"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "run_id": "20260713T133545949715Z",
+  "started_at_utc": "2026-07-13T13:35:45.949767+00:00",
+  "completed_at_utc": "2026-07-13T13:44:56.427056+00:00",
+  "queries": [
+    "Model Context Protocol MCP python servers open source examples",
+    "n8n webhooks custom HTTP response configuration guidelines"
+  ],
+  "rounds": 15,
+  "search": {
+    "endpoints": {
+      "SearchApi": "https://www.searchapi.io/api/v1/search",
+      "SerpApi": "https://serpapi.com/search"
+    },
+    "engine": "google",
+    "request_interval_seconds": 1.0,
+    "timeout_seconds": 30.0,
+    "retry_policy": "one retry for timeout, network, HTTP 429, and HTTP 5xx",
+    "outcomes": {
+      "SearchApi": {
+        "successful": 30,
+        "failed": 0
+      },
+      "SerpApi": {
+        "successful": 30,
+        "failed": 0
+      }
+    }
+  },
+  "nvidia": {
+    "base_url": "https://integrate.api.nvidia.com/v1",
+    "models": [
+      "deepseek-ai/deepseek-v4-pro",
+      "z-ai/glm-5.2"
+    ],
+    "settings": {
+      "temperature": 0,
+      "max_tokens": 512,
+      "stream": false
+    },
+    "retry_policy": "one retry for transient failures",
+    "outcomes": {
+      "successful": 0,
+      "failed_or_skipped": 8
+    }
+  },
+  "runtime": {
+    "python": "3.12.3",
+    "platform": "Linux-6.8.0-134-generic-x86_64-with-glibc2.39",
+    "packages": {
+      "httpx": "0.28.1",
+      "openai": "2.45.0",
+      "pandas": "3.0.3"
+    }
+  },
+  "artifacts": [
+    "benchmark_manifest_20260713T133545949715Z.json",
+    "raw_audit_logs/query1_searchapi_deepseek_v4_pro_output_20260713T133545949715Z.txt",
+    "raw_audit_logs/query1_searchapi_glm_5_2_output_20260713T133545949715Z.txt",
+    "raw_audit_logs/query1_searchapi_raw_20260713T133545949715Z.json",
+    "raw_audit_logs/query1_serpapi_deepseek_v4_pro_output_20260713T133545949715Z.txt",
+    "raw_audit_logs/query1_serpapi_glm_5_2_output_20260713T133545949715Z.txt",
+    "raw_audit_logs/query1_serpapi_raw_20260713T133545949715Z.json",
+    "raw_audit_logs/query2_searchapi_deepseek_v4_pro_output_20260713T133545949715Z.txt",
+    "raw_audit_logs/query2_searchapi_glm_5_2_output_20260713T133545949715Z.txt",
+    "raw_audit_logs/query2_searchapi_raw_20260713T133545949715Z.json",
+    "raw_audit_logs/query2_serpapi_deepseek_v4_pro_output_20260713T133545949715Z.txt",
+    "raw_audit_logs/query2_serpapi_glm_5_2_output_20260713T133545949715Z.txt",
+    "raw_audit_logs/query2_serpapi_raw_20260713T133545949715Z.json",
+    "search_api_averaged_results_20260713T133545949715Z.csv"
+  ]
+}
