@@ -1,6 +1,6 @@
 # SearchApi vs SerpApi Benchmark
 
-This repository contains the benchmark script and raw results from a SearchApi and SerpApi comparison conducted in July 2026. It compares the providers as search-context sources for AI workflows by measuring Google Search response latency and the character footprint of normalized organic results, then sends first-round contexts to two NVIDIA NIM models for a qualitative citation audit.
+This repository contains the script, raw results, article, and supporting assets from two SearchApi and SerpApi benchmark runs conducted in July 2026. The comparison covers Google Search response latency, usable-result availability, manually graded relevance, and downstream LLM answer completeness.
 
 ## Methodology
 
@@ -18,6 +18,8 @@ Search performance is measured across all 15 rounds. To limit NVIDIA API usage, 
 
 Each model evaluates both providers' round-one results for both queries. This produces eight normal NVIDIA requests: 2 queries × 2 search providers × 2 models.
 
+The LLM phase is a context-to-answer evaluation. It tests whether a model can answer from the supplied search context; it does not evaluate a complete autonomous-agent workflow.
+
 Transient timeouts, connection failures, HTTP 429 responses, and HTTP 5xx responses are retried once. The worst-case ceilings are therefore 60 requests per search provider and 16 NVIDIA requests. Authentication and other HTTP 4xx failures are not retried.
 
 ### What this test does not cover
@@ -25,7 +27,7 @@ Transient timeouts, connection failures, HTTP 429 responses, and HTTP 5xx respon
 - Concurrent or high-throughput request workloads
 - Search engines other than Google
 - Provider features outside normal search requests, such as asynchronous jobs or scraping APIs
-- Pricing comparisons
+- Pricing is not measured by the benchmark script; the article separately compares public plan data
 - Automated scoring of result relevance, citation correctness, or answer completeness
 
 ## Requirements
@@ -98,7 +100,7 @@ While it runs, animated progress bars show the active search round, query, provi
 
 Search and LLM executions use separate UTC run IDs, such as `20260713T153000123456Z`. An LLM run records the source search run ID it evaluated, and transcript filenames contain both IDs. Existing artifacts are never overwritten.
 
-A completed search and LLM evaluation produces this layout:
+A newly completed search and LLM evaluation produces this layout:
 
 ```text
 .
@@ -117,6 +119,18 @@ A completed search and LLM evaluation produces this layout:
 - `llm_manifest_<llm-run-id>.json` records the NVIDIA attempt and identifies the source search run it evaluated.
 - `raw_audit_logs/queryN_PROVIDER_raw_<run-id>.json` contains each provider's unmodified round-one JSON object when the request returned valid JSON, including responses with no organic results.
 - Timestamped files containing `source_<search-run-id>_llm_<llm-run-id>` contain each NVIDIA completion or an explicit failure/skip message.
+
+The repository also includes:
+
+- `article.md`, the final benchmark article.
+- `RELEVANCE_GRADING.md`, the manual blinded grading worksheet and completed scores.
+- `RELEVANCE_GRADING_KEY.md`, the provider mapping for the anonymized grading labels.
+- `assets/article/`, the final PNG figures used by the article.
+
+### Published run history
+
+- Run 1 (`20260713T133545949715Z`) was the initial latency-focused test. It saved an averaged CSV and first-round raw responses, but it did not preserve a detailed per-request CSV.
+- Run 2 (`20260713T182115730906Z`) was the expanded benchmark. It saved both averaged and detailed CSVs, allowing usable-result, median-latency, and p95-latency analysis.
 
 Match search artifacts by their search run ID. Use `source_<search-run-id>_llm_<llm-run-id>` in transcript filenames, or `source_search_run_id` in the LLM manifest, to connect model outputs to their source search run.
 
